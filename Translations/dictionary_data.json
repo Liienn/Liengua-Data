@@ -468,7 +468,7 @@
   "spanish": "¿Qué hora es?",
   "russian": "Который час?",
   "alternatives": {
-      "dutch": ["Wat is de tijd?", "Wat uur leven we?"],
+      "dutch": ["Wat uur leven we?"],
       "spanish": ["¿Qué hora tiene?", "¿A qué hora estamos?"],
       "russian": ["Сколько времени?"]
   },
