@@ -4477,7 +4477,7 @@
   },
    {
     "id": 334,
-    "english": "to work around the rules*",
+    "english": "To work around the rules*",
     "dutch": "De regels omzeilen",
     "spanish": "Saltar las reglas",
     "russian": "Обойти правила",
@@ -4489,7 +4489,7 @@
   },
   {
   "id": 335,
-  "english": "to put a stop to something*",
+  "english": "To put a stop to something*",
   "dutch": "Ergens een stokje voor steken",
   "spanish": "Poner fin a algo",
   "russian": "Пресечь что-либо",
@@ -4569,6 +4569,54 @@
         "dutch": ["Iets gemeen hebben met", "Lijken op"],
         "spanish": ["Tener algo parecido"],
         "russian": ["Иметь что-то общее с", "Иметь что-то похожее"]
+    }
+  },
+   {
+    "id": 342,
+    "english": "To catch off guard**",
+    "dutch": "Iemand verrassen",
+    "spanish": "Sorpender a alguien",
+    "russian": "Удивить кого-то",
+    "alternatives": {
+        "dutch": ["Iemand overvallen", "Het niet door hebben"],
+        "spanish": ["Tomar por sorpresa a alguien"],
+        "russian": ["Застать врасплох"]
+    }
+  },
+   {
+    "id": 343,
+    "english": "Running towards someone**",
+    "dutch": "Op iemand afrennen",
+    "spanish": "Correr hacia alguien",
+    "russian": "Бежать к кому-то",
+    "alternatives": {
+        "dutch": ["Op iemand afkomen","Iemand tegemoet rennen", "Op iemand afstormen"],
+        "spanish": [],
+        "russian": ["Бежать навстречу кому-то", "Подбегать к кому-то"]
+    }
+  },
+  {
+    "id": 344,
+    "english": "Outside of the rest**",
+    "dutch": "Buiten de rest",
+    "spanish": "Aparte del resto",
+    "russian": "Отдельно от остальных",
+    "alternatives": {
+        "dutch": ["Afgezien van de rest", "Los van de rest"],
+        "spanish": ["Fuera del resto"],
+        "russian": ["Вне остальных"]
+    }
+  },
+  {
+    "id": 345,
+    "english": "I am not able to remember it**",
+    "dutch": "Ik kan er niet op komen",
+    "spanish": "No puedo recordarlo",
+    "russian": "Не могу вспомнить это",
+    "alternatives": {
+        "dutch": ["Ik kan het me niet herinneren", "Ik weet het niet meer"],
+        "spanish": ["No puedo acordarme de eso", "No puedo traerlo a la mente"],
+        "russian": ["Не могу припомнить это"]
     }
   },
   {
