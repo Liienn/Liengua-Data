@@ -4328,7 +4328,7 @@
     "alternatives": {
         "dutch": ["Ze kon niet stil blijven zitten", "Ze kon niet stil blijven"],
         "spanish": ["No podía estar quieta"],
-        "russian": []
+        "russian": ["Ей не сиделось на месте"]
     }
   },
   {
@@ -4340,7 +4340,7 @@
     "alternatives": {
         "dutch": [],
         "spanish": ["No estaba destinado a ser"],
-        "russian": ["Это не суждено было случиться"]
+        "russian": ["Этому не суждено было случиться"]
     }
   },
   {
@@ -4376,7 +4376,7 @@
     "alternatives": {
         "dutch": ["Streken uithalen"],
         "spanish": [],
-        "russian": ["Проказничать"]
+        "russian": ["Проказничать", "Хулиганить"]
     }
   },
   {
@@ -4400,7 +4400,7 @@
     "alternatives": {
         "dutch": ["Beschamend", "Pijnlijk"],
         "spanish": ["Bochornoso"],
-        "russian": ["Стыдно", "Уничижительно"]
+        "russian": ["Стыдно"]
     }
   },
   {
@@ -4472,7 +4472,7 @@
     "alternatives": {
         "dutch": ["Het is afgedragen"],
         "spanish": ["Está usado"],
-        "russian": []
+        "russian": ["Потрёпано"]
     }
   },
    {
@@ -4496,7 +4496,7 @@
   "alternatives": {
     "dutch": [],
     "spanish": ["Detener algo", "Impedir algo"],
-    "russian": ["Остановить что-либо", "Воспрепятствовать чему-либо"]
+    "russian": ["Остановить что-либо", "Воспрепятствовать чему-либо", "Положить конец этому"]
   }
 },
 {
@@ -4528,7 +4528,7 @@
   "english": "Sneaking around on tiptoe*",
   "dutch": "Sluipen op de tenen",
   "spanish": "Pisando de puntillas",
-  "russian":  "Ходить в носках",
+  "russian":  "Ходить на носочках",
   "alternatives": {
     "dutch": ["Sluipend op de tenen"],
     "spanish": ["Caminando de puntillas"],
@@ -4544,7 +4544,7 @@
   "alternatives": {
     "dutch": ["Iemand te lijf gaan"],
     "spanish": ["Agredir a alguien"],
-    "russian": ["Агрессировать кого-то", "Пойти на кого-то"]
+    "russian": ["Пойти на кого-то"]
   }
 },
 {
