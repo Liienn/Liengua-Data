@@ -122,9 +122,8 @@ Match ALL the phrases available... or untill you get really really tired.
 
 The TTS can be disabled and enabled with: ![image](https://github.com/user-attachments/assets/0361db20-694f-4bac-9702-55555645edde)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b563336-5f71-4bbc-bbb5-0d1c535c476b" alt="Phrase matching screenshot">
+  <img src="https://github.com/user-attachments/assets/c21c673f-db4d-43f6-b8e4-c5b33a8ea333" alt="Phrase matching screenshot">
 </p>
-
 
 ### Listening practice
 Listen to a phrase and tap the correct words to build it.
