@@ -4920,6 +4920,42 @@
     }
   },
   {
+    "id": 371,
+    "english": "Doing something reluctantly**",
+    "dutch": "Iets tegen je zin doen",
+    "spanish": "Hacer algo a regañadientes",
+    "russian": "Делать что-то из-под палки",
+    "alternatives": {
+        "dutch": ["Iets met tegenzin doen"],
+        "spanish": ["Hacer algo a desgana", "Hacer algo de mala gana"],
+        "russian": ["Делать что-то неохотно", "Делать что-то с неохотой"]
+    }
+  },
+  {
+    "id": 372,
+    "english": "To make an attempt**",
+    "dutch": "Een poging doen",
+    "spanish": "Hacer un intento",
+    "russian": "Попытаться",
+    "alternatives": {
+        "dutch": ["Een poging wagen", "Proberen"],
+        "spanish": ["Intentar", "Hacer un esfuerzo"],
+        "russian": ["Попытаться сделать что-то", "Постараться", "Предпринять попытку"]	
+    }
+  },
+  {
+    "id": 373,
+    "english": "To postpone**",
+    "dutch": "Uitstellen",
+    "spanish": "Posponer",
+    "russian": "Отложить",
+    "alternatives": {
+        "dutch": ["Iets uitstellen", "Iets verzetten"],
+        "spanish": ["Aplazar", "Retrasar"],
+        "russian": ["Откладывать что-то", "Перенести что-то"]
+    }
+  },
+  {
     "id": 0,
     "english": "- a placeholder -",
     "dutch": "",
