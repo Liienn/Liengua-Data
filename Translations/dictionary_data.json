@@ -4955,6 +4955,30 @@
         "russian": ["Откладывать что-то", "Перенести что-то"]
     }
   },
+   {
+    "id": 374,
+    "english": "There is no point in it**",
+    "dutch": "Het heeft geen zin",
+    "spanish": "No tiene sentido",
+    "russian": "Нет смысла в этом",
+    "alternatives": {
+        "dutch": ["Het is zinloos", "Het is nutteloos"],
+        "spanish": ["No tiene propósito", "No vale la pena"],
+        "russian": ["Это бессмысленно"]
+    }
+  },
+  {
+    "id": 375,
+    "english": "We have nothing to lose**",
+    "dutch": "We hebben niets te verliezen",
+    "spanish": "No tenemos nada que perder",
+    "russian": "Нам нечего терять",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    }
+  },
   {
     "id": 0,
     "english": "- a placeholder -",
