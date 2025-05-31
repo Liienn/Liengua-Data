@@ -2898,7 +2898,7 @@
     "spanish": "Estoy molesto/a",
     "russian": "Меня раздражает",
     "alternatives": {
-        "dutch": ["Ik ben geërgerd", "Ik ben boos"],
+        "dutch": ["Ik erger me", "Ik ben boos"],
         "spanish": ["Estoy enfadado/a"],
         "russian": ["Я раздражен(а)", "Меня бесит"]
     }
@@ -4118,7 +4118,7 @@
 {
   "id": 304,
   "english": "He wrinkled his nose",
-  "dutch": "He trok zijn neus op",
+  "dutch": "Hij trok zijn neus op",
   "spanish": "Arrugó la nariz",
   "russian": "Он сморщил нос",
   "alternatives": {
@@ -4578,7 +4578,7 @@
     "spanish": "Sorpender a alguien",
     "russian": "Удивить кого-то",
     "alternatives": {
-        "dutch": ["Iemand overvallen", "Het niet door hebben"],
+        "dutch": ["Iemand overvallen", "Het niet doorhebben"],
         "spanish": ["Tomar por sorpresa a alguien"],
         "russian": ["Застать врасплох"]
     }
@@ -4610,7 +4610,7 @@
   {
     "id": 345,
     "english": "I am not able to remember it*",
-    "dutch": "Ik kan er niet op komen",
+    "dutch": "Ik kan er niet opkomen",
     "spanish": "No puedo recordarlo",
     "russian": "Не могу вспомнить это",
     "alternatives": {
