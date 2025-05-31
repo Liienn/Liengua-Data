@@ -4477,7 +4477,7 @@
   },
    {
     "id": 334,
-    "english": "To work around the rules*",
+    "english": "To work around the rules",
     "dutch": "De regels omzeilen",
     "spanish": "Saltar las reglas",
     "russian": "Обойти правила",
@@ -4489,7 +4489,7 @@
   },
   {
   "id": 335,
-  "english": "To put a stop to something*",
+  "english": "To put a stop to something",
   "dutch": "Ergens een stokje voor steken",
   "spanish": "Poner fin a algo",
   "russian": "Пресечь что-либо",
@@ -4501,7 +4501,7 @@
 },
 {
     "id": 336,
-    "english": "As much as possible*",
+    "english": "As much as possible",
     "dutch": "Zo veel mogelijk",
     "spanish": "Tanto como sea posible",
     "russian": "Насколько возможно",
@@ -4513,7 +4513,7 @@
   },
   {
     "id": 337,
-    "english": "You wouldn't dare to do that*",
+    "english": "You wouldn't dare to do that",
     "dutch": "Daar heb je het lef niet voor",
     "spanish": "No te atreverías a hacer eso",
     "russian": "Ты бы не осмелился на это",
@@ -4525,7 +4525,7 @@
   },
 {
   "id": 338,
-  "english": "Sneaking around on tiptoe*",
+  "english": "Sneaking around on tiptoe",
   "dutch": "Sluipen op de tenen",
   "spanish": "Pisando de puntillas",
   "russian":  "Ходить на носочках",
@@ -4537,7 +4537,7 @@
 },
 {
   "id": 339,
-  "english": "To attack someone*",
+  "english": "To attack someone",
   "dutch": "Iemand aanvallen",
   "spanish": "Atacar a alguien",
   "russian": "Напасть на кого-то",
@@ -4549,7 +4549,7 @@
 },
 {
     "id": 340,
-    "english": "To ignore the rules*",
+    "english": "To ignore the rules",
     "dutch": "De regels aan de laars lappen",
     "spanish": "Pasar por alto las reglas",
     "russian": "Игнорировать правила",
@@ -4561,7 +4561,7 @@
   },
   {
     "id": 341,
-    "english": "To have something similar*",
+    "english": "To have something similar",
     "dutch": "Iets weghebben van",
     "spanish": "Tener algo similar",
     "russian": "Похоже на",
@@ -4573,7 +4573,7 @@
   },
    {
     "id": 342,
-    "english": "To catch off guard**",
+    "english": "To catch off guard*",
     "dutch": "Iemand verrassen",
     "spanish": "Sorpender a alguien",
     "russian": "Удивить кого-то",
@@ -4585,7 +4585,7 @@
   },
    {
     "id": 343,
-    "english": "Running towards someone**",
+    "english": "Running towards someone*",
     "dutch": "Op iemand afrennen",
     "spanish": "Correr hacia alguien",
     "russian": "Бежать к кому-то",
@@ -4597,7 +4597,7 @@
   },
   {
     "id": 344,
-    "english": "Outside of the rest**",
+    "english": "Outside of the rest*",
     "dutch": "Buiten de rest",
     "spanish": "Aparte del resto",
     "russian": "Отдельно от остальных",
@@ -4609,7 +4609,7 @@
   },
   {
     "id": 345,
-    "english": "I am not able to remember it**",
+    "english": "I am not able to remember it*",
     "dutch": "Ik kan er niet op komen",
     "spanish": "No puedo recordarlo",
     "russian": "Не могу вспомнить это",
@@ -4617,6 +4617,306 @@
         "dutch": ["Ik kan het me niet herinneren", "Ik weet het niet meer"],
         "spanish": ["No puedo acordarme de eso", "No puedo traerlo a la mente"],
         "russian": ["Не могу припомнить это"]
+    }
+  },
+  {
+    "id": 346,
+    "english": "I advise you to come on time**",
+    "dutch": "Ik raad je aan op tijd te komen",
+    "spanish": "Te aconsejo que llegues a tiempo",
+    "russian": "Я советую тебе прийти вовремя",
+    "alternatives": {
+        "dutch": ["Ik adviseer je om op tijd te komen", "Ik raad je aan om op tijd te zijn"],
+        "spanish": ["Te sugiero que llegues a tiempo", "Te recomiendo que llegues a tiempo"],
+        "russian": ["Я рекомендую тебе прийти вовремя"]
+    }
+  },
+  {
+    "id": 347,
+    "english": "Can you come online?**",
+    "dutch": "Kun je online komen?",
+    "spanish": "¿Puedes conectarte?",
+    "russian": "Ты можешь выйти в сеть?",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    }
+  },
+  {
+    "id": 348,	
+    "english": "There is no one there**",
+    "dutch": "Er is niemand daar",
+    "spanish": "No hay nadie allí",
+    "russian": "Там никого нет",
+    "alternatives": {
+        "dutch": ["Er is niemand aanwezig", "Er is niemand"],
+        "spanish": ["Allí no hay nadie", "No hay nadie presente"],
+        "russian": ["Нету там никого"]
+    }
+  },
+  {
+    "id": 349,
+    "english": "I will check this**",
+    "dutch": "Ik zal dit nakijken",
+    "spanish": "Voy a revisar esto",
+    "russian": "Я проверю это",
+    "alternatives": {
+        "dutch": ["Ik ga het checken", "Ik zal het controleren"],
+        "spanish": ["Voy a comprobar esto", "Voy a verificar esto"],
+        "russian": ["Я посмотрю на это"]
+    }
+  },
+  {
+    "id": 350,
+    "english": "I said this without thinking**",
+    "dutch": "Ik zei het zonder nadenken",
+    "spanish": "Lo dije sin pensar",
+    "russian": "Я сказал это, не подумав",
+    "alternatives": {
+        "dutch": ["Ik zei het zonder erover na te denken", "Ik zei het zonder erbij na te denken"],
+        "spanish": ["Lo dije sin reflexionar", "Lo dije sin pensarlo"],
+        "russian": ["Я сказал это, не задумываясь", "Я сказал это без раздумий"]
+    }
+  },
+  {
+    "id": 351,
+    "english": "I am drinking tea while reading a book**",
+    "dutch": "Ik drink thee terwijl ik een boek lees",
+    "spanish": "Estoy bebiendo té mientras leo un libro",
+    "russian": "Я пью чай, читая книгу",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    }
+  },
+  {
+    "id": 352,
+    "english": "This is a natural process**",
+    "dutch": "Dit is een natuurlijk proces",
+    "spanish": "Este es un proceso natural",
+    "russian": "Это естественный процесс",
+    "alternatives": {
+        "dutch": ["Het is natuurlijk"],
+        "spanish": [],
+        "russian": ["Это естественно", "Это природный процесс"]
+    }
+  },
+  {
+    "id": 353,
+    "english": "It turned out to be a mistake**",
+    "dutch": "Het bleek een vergissing te zijn",
+    "spanish": "Resultó ser un error",
+    "russian": "Это оказалось ошибкой",
+    "alternatives": {
+        "dutch": ["Het bleek een fout te zijn", "Het was een vergissing"],
+        "spanish": ["Resultó ser un fallo"],
+        "russian": ["Это оказалось ошибочным", "Это оказалось неверным"]
+    }
+  },
+  {
+    "id": 354,
+    "english": "Everything was explained very easily**",
+    "dutch": "Alles werd heel simpel uitgelegd",
+    "spanish": "Todo se explicó muy fácilmente",
+    "russian": "Всё объясняется очень просто",
+    "alternatives": {
+        "dutch": ["Alles werd heel duidelijk uitgelegd"],
+        "spanish": ["Todo se explicó de manera sencilla"],
+        "russian": ["Всё объясняется очень доступно", "Всё объяснили очень просто"]
+    }
+  },
+  {
+    "id": 355,
+    "english": "Nothing good",
+    "dutch": "Niets goeds",
+    "spanish": "Nada bueno",
+    "russian": "Ничего хорошего",
+    "alternatives": {
+        "dutch": ["Niets positiefs", "Niets om blij van te worden"],
+        "spanish": ["Nada positivo", "Nada que valga la pena"],
+        "russian": ["Ничего положительного", "Ничего, что стоило бы упоминать"]
+    }
+  },
+  {
+    "id": 356,
+    "english": "There is nothing worse than this**",
+    "dutch": "Er is niets ergers dan dit",
+    "spanish": "No hay nada peor que esto",
+    "russian": "Ничего хуже этого нет",
+    "alternatives": {
+        "dutch": ["Er is niets dat erger is dan dit", "Dit is het ergste wat er is"],
+        "spanish": ["No hay nada más malo que esto"],
+        "russian": ["Нет ничего хуже этого", "Это худшее, что может быть"]
+    }
+  },
+  {
+    "id": 357,
+    "english": "There is not one shell here**",
+    "dutch": "Er is hier niet één schelp",
+    "spanish": "No hay ninguna concha aquí",
+    "russian": "Здесь нет ни одной ракушки",
+    "alternatives": {
+        "dutch": ["Er is hier geen enkele schelp te vinden", "Hier is geen enkele schelp"],
+        "spanish": ["No hay ni una sola concha aquí"],
+        "russian": []
+    }
+  },
+   {
+    "id": 358,
+    "english": "I should have known better**",
+    "dutch": "Ik had beter moeten weten",
+    "spanish": "Debería haberlo sabido mejor",
+    "russian": "Я должен был знать лучше",
+    "alternatives": {
+        "dutch": ["Ik had het kunnen weten", "Ik had het niet moeten doen"],
+        "spanish": [],
+        "russian": []
+    }
+  },
+   {
+    "id": 359,
+    "english": "I should drink more water**",
+    "dutch": "Ik zou meer water moeten drinken",
+    "spanish": "Debería beber más agua",
+    "russian": "Мне следует пить больше воды",
+    "alternatives": {
+        "dutch": ["Ik moet meer water drinken", "Ik zou meer moeten drinken"],
+        "spanish": ["Debería tomar más agua", "Debería hidratarme más"],
+        "russian": ["Мне нужно пить больше воды"]
+    }
+  },
+   {
+    "id": 360,
+    "english": "Life is suffering**",
+    "dutch": "Het leven is lijden",
+    "spanish": "La vida es sufrimiento",
+    "russian": "Жизнь - это страдание",
+    "alternatives": {
+        "dutch": ["Het leven is een lijdensweg", "Het leven is een strijd"],
+        "spanish": ["La vida es dolor", "La vida es una lucha"],
+        "russian": ["Жизнь - это боль", "Жизнь полна страданий"]
+    }
+  },
+   {
+    "id": 361,
+    "english": "Thanks anyway**",
+    "dutch": "Toch bedankt",
+    "spanish": "Gracias de todos modos",
+    "russian": "Спасибо в любом случае",
+    "alternatives": {
+        "dutch": ["Toch bedankt voor de moeite", "Bedankt in ieder geval"],
+        "spanish": ["Gracias de todas formas", "Gracias igualmente"],
+        "russian": ["Спасибо всё равно", "Спасибо за попытку"]
+    }
+  },
+   {
+    "id": 362,
+    "english": "If I remembered where it was, I would have found it**",
+    "dutch": "Als ik wist waar het was, had ik het gevonden",
+    "spanish": "Si supiera dónde estaba, lo habría encontrado",
+    "russian": "Если бы я знал, где это, я бы нашёл это",
+    "alternatives": {
+        "dutch": ["Als ik wist waar het was, zou ik het hebben gevonden", "Als ik wist waar het lag, had ik het gevonden"],
+        "spanish": ["Si supiera dónde estaba, lo habría hallado"],
+        "russian": ["Если бы я помнила, где это, то нашла бы это"]
+    }
+  },
+  {
+    "id": 363,
+    "english": "I got the impression that it was not important**",
+    "dutch": "Ik kreeg de indruk dat het niet belangrijk was",
+    "spanish": "Tuve la impresión de que no era importante",
+    "russian": "Мне показалось, что это не важно",
+    "alternatives": {
+        "dutch": ["Ik had de indruk dat het niet belangrijk was", "Ik dacht dat het niet belangrijk was"],
+        "spanish": ["Tuve la sensación de que no era importante", "Me dio la impresión de que no era relevante"],
+        "russian": ["У меня сложилось ощущение, что это не имеет значения", "У меня сложилось впечатление, что это не важно"]
+    }
+  },
+  {
+    "id": 364,
+    "english": "The thing is that she is right**",
+    "dutch": "Eigenlijk heeft ze gelijk",
+    "spanish": "En realidad, ella tiene razón",
+    "russian": "На самом деле, она права",
+    "alternatives": {
+        "dutch": ["In feite heeft ze gelijk", "Het ding is dat ze gelijk heeft"],
+        "spanish": ["En realidad, ella está en lo correcto", "En verdad, ella tiene razón"],
+        "russian": ["Дело в том, что она права"]
+    }
+  },
+    {
+    "id": 365,
+    "english": "Can I have those things?**",
+    "dutch": "Mag ik die hebben?",
+    "spanish": "¿Puedo tener esas cosas?",
+    "russian": "Можна мне вон те вещи?",
+    "alternatives": {
+        "dutch": ["Mag ik die spullen hebben?", "Mag ik die dingen meenemen?"],
+        "spanish": ["¿Puedo quedarme con esas cosas?", "¿Puedo llevarme esas cosas?"],
+        "russian": ["Могу я взять эти вещи?", "Можно мне эти вещи?"]
+    }
+  },
+  {
+    "id": 366,
+    "english": "Daily**",
+    "dutch": "Dagelijks",
+    "spanish": "Diariamente",
+    "russian": "Ежедневно",
+    "alternatives": {
+        "dutch": ["Elke dag"],
+        "spanish": ["Cada día", "A diario"],
+        "russian": ["Каждый день"]
+    }
+  },
+  {
+    "id": 367,
+    "english": "Weekly**",
+    "dutch": "Wekelijks",
+    "spanish": "Semanalmente",
+    "russian": "Еженедельно",
+    "alternatives": {
+        "dutch": ["Elke week"],
+        "spanish": ["Cada semana"],
+        "russian": ["Каждую неделю"]
+    }
+  },
+  {
+    "id": 368,
+    "english": "Monthly**",
+    "dutch": "Maandelijks",
+    "spanish": "Mensualmente",
+    "russian": "Ежемесячно",
+    "alternatives": {
+        "dutch": ["Elke maand"],
+        "spanish": ["Cada mes"],
+        "russian": ["Каждый месяц"]
+    }
+  },
+  {
+    "id": 369,
+    "english": "Yearly**",
+    "dutch": "Jaarlijks",
+    "spanish": "Anualmente",
+    "russian": "Ежегодно",
+    "alternatives": {
+        "dutch": ["Elk jaar"],
+        "spanish": ["Cada año"],
+        "russian": ["Каждый год"]
+    }
+  },
+  {
+    "id": 370,
+    "english": "They live in the same area**",
+    "dutch": "Ze wonen in dezelfde buurt",
+    "spanish": "Viven en la misma zona",
+    "russian": "Они живут в одном районе",
+    "alternatives": {
+        "dutch": ["Ze wonen in dezelfde omgeving", "Ze wonen in dezelfde streek"],
+        "spanish": ["Viven en la misma área", "Residen en la misma zona"],
+        "russian": ["Они живут в том же районе", "Они живут в одной местности"]
     }
   },
   {
