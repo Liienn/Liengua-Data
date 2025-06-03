@@ -4980,6 +4980,54 @@
     }
   },
   {
+    "id": 376,
+    "english": "I need to catch up***",
+    "dutch": "Ik moet het inhalen",
+    "spanish": "Necesito ponerme al día",
+    "russian": "Мне нужно наверстать",
+    "alternatives": {
+        "dutch": ["Ik moet bijwerken", "Ik moet het bijbenen"],
+        "spanish": ["Necesito actualizarme", "Necesito recuperar el tiempo perdido"],
+        "russian": ["Мне нужно догнать"]
+    }
+  },
+  {
+    "id": 377,
+    "english": "A compensation prize",
+    "dutch": "De troostprijs",
+    "spanish": "El premio de consolación",
+    "russian": "Утешительный приз",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    }
+  },
+  {
+    "id": 378,
+    "english": "It kept haunting me***",
+    "dutch": "Het bleef door mijn hoofd spoken",
+    "spanish": "Me seguía atormentando",
+    "russian": "Меня это преследовало",
+    "alternatives": {
+        "dutch": ["Het bleef in mijn hoofd ronddolen", "Het bleef me achtervolgen"],
+        "spanish": ["Me seguía persiguiendo", "Me seguía molestando"],
+        "russian": ["Меня это мучило", "Меня это не покидало", "Этот вопрос крутился у меня в голове"]
+    }
+  },
+  {
+    "id": 379,
+    "english": "Loud cheering***",
+    "dutch": "Luid gejuich",
+    "spanish": "Aplausos estruendosos",
+    "russian": "Громкие аплодисменты",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    }
+  },
+  {
     "id": 0,
     "english": "- a placeholder -",
     "dutch": "",
