@@ -5028,6 +5028,66 @@
     }
   },
   {
+    "id": 380,
+    "english": "It was a trick question****",
+    "dutch": "Het was een strikvraag",
+    "spanish": "Era una pregunta con truco",
+    "russian": "Это был каверзный вопрос",
+    "alternatives": {
+        "dutch": ["Het was een valstrik", "Het was een misleidende vraag"],
+        "spanish": ["Era una pregunta engañosa", "Era una pregunta capciosa"],
+        "russian": ["Это был вопрос с хитростью", "Это был вопрос с ловушкой"]
+    }
+  },
+  {
+    "id": 381,
+    "english": "I made a first draft****",
+    "dutch": "Ik heb een eerste versie gemaakt",
+    "spanish": "Hice un primer borrador",
+    "russian": "Я сделал первый черновик",
+    "alternatives": {
+        "dutch": ["Ik heb een eerste concept gemaakt","Ik heb een ruwe versie gemaakt"],
+        "spanish": ["He hecho un primer borrador","Escribí un primer borrador" ],
+        "russian": ["Я набросал первый черновик","Я сделал черновой вариант"]
+    }
+  },
+  {
+    "id": 382,
+    "english": "It is planted on the right side of the garden****",
+    "dutch": "Het is geplant aan de rechterkant van de tuin",
+    "spanish": "Está plantado en el lado derecho del jardín",
+    "russian": "Посажено с правой стороны сада",
+    "alternatives": {
+        "dutch": ["Het staat rechts in de tuin geplant","Het is geplant rechts in de tuin"],
+        "spanish": ["Lo plantaron en el lado derecho del jardín"],
+        "russian": []
+    }
+  },
+  {
+    "id": 383,
+    "english": "Boiled potato with peel****",
+    "dutch": "Gekookte aardappel met schil",
+    "spanish": "Patata cocida con la piel",
+    "russian": "Картошка в мундире",
+    "alternatives": {
+        "dutch": ["Aardappel met schil, gekookt"],
+        "spanish": ["Papa hervida con cáscara"],
+        "russian": ["Варёная картошка в кожуре"]
+    }
+  },
+  {
+    "id": 384,
+    "english": "The sunlight reflected off the water****",
+    "dutch": "Het zonlicht weerkaatste op het water",
+    "spanish": "La luz del sol se reflejó en el agua",
+    "russian": "Солнечный свет отражался от воды",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    }
+  },
+  {
     "id": 0,
     "english": "- a placeholder -",
     "dutch": "",
