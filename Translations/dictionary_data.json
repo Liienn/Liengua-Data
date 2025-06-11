@@ -1952,7 +1952,7 @@
     "alternatives": {
         "dutch": ["Dat is zo gebeurd", "Een fluitje van een cent", "Het is heel erg gemakkelijk"],
         "spanish": ["Estar chupado"],
-        "russian": ["Пустяковое дело"]
+        "russian": []
     }
   },
   {
@@ -3992,7 +3992,7 @@
     "alternatives": {
         "dutch": ["Veel om lief te hebben"],
         "spanish": ["Mucho para querer"],
-        "russian": []
+        "russian": ["Хорошего человека должно быть много"]
     }
   },
   {
@@ -4516,11 +4516,11 @@
     "english": "You wouldn't dare to do that",
     "dutch": "Daar heb je het lef niet voor",
     "spanish": "No te atreverías a hacer eso",
-    "russian": "Ты бы не осмелился на это",
+    "russian": "Ты бы не посмел",
     "alternatives": {
         "dutch": ["Dat durf je niet", "Dat zou je nooit durven"],
         "spanish": ["No te atreverías a hacerlo"],
-        "russian": ["Ты бы не решился на это"]
+        "russian": ["Ты бы не посмел это сделать","Ты бы не решился на это", "Ты бы не осмелился на это"]
     }
   },
 {
@@ -4544,7 +4544,7 @@
   "alternatives": {
     "dutch": ["Iemand te lijf gaan"],
     "spanish": ["Agredir a alguien"],
-    "russian": ["Пойти на кого-то"]
+    "russian": []
   }
 },
 {
@@ -4652,7 +4652,7 @@
     "alternatives": {
         "dutch": ["Er is niemand aanwezig", "Er is niemand"],
         "spanish": ["Allí no hay nadie", "No hay nadie presente"],
-        "russian": ["Нету там никого"]
+        "russian": []
     }
   },
   {
@@ -4672,11 +4672,11 @@
     "english": "I said this without thinking**",
     "dutch": "Ik zei het zonder nadenken",
     "spanish": "Lo dije sin pensar",
-    "russian": "Я сказал это, не подумав",
+    "russian": "Я сказал это не думая",
     "alternatives": {
         "dutch": ["Ik zei het zonder erover na te denken", "Ik zei het zonder erbij na te denken"],
         "spanish": ["Lo dije sin reflexionar", "Lo dije sin pensarlo"],
-        "russian": ["Я сказал это, не задумываясь", "Я сказал это без раздумий"]
+        "russian": ["Я сказал это, не подумав","Я сказал это, не задумываясь", "Я сказал это без раздумий"]
     }
   },
   {
@@ -5036,7 +5036,7 @@
     "alternatives": {
         "dutch": ["Het was een valstrik", "Het was een misleidende vraag"],
         "spanish": ["Era una pregunta engañosa", "Era una pregunta capciosa"],
-        "russian": ["Это был вопрос с хитростью", "Это был вопрос с ловушкой"]
+        "russian": ["Это был заковыристый вопрос", "Это был хитрый вопрос"]
     }
   },
   {
