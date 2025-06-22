@@ -1651,7 +1651,7 @@
         "До собрания"
       ]
     },
-      "tags": ["time"],
+      "tags": ["time", "meeting"],
       "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3082,7 +3082,7 @@
       "spanish": ["Perdí una reunión"],
       "russian": ["Я не пришёл/пришла на встречу"]
     },
-    "tags": [],
+    "tags": ["meeting"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
