@@ -1849,7 +1849,7 @@
   {
     "id": 84,
     "english": "At midnight",
-    "dutch": "Op middernacht",
+    "dutch": "Om middernacht",
     "spanish": "A medianoche",
     "russian": "Полночь",
     "alternatives": {
@@ -4716,7 +4716,7 @@
     "spanish": "Extrovertido",
     "russian": "Общительный / Общительная",
     "alternatives": {
-        "dutch": ["Vlot", "Spraakzaam"],
+        "dutch": ["Vlot", "Spraakzaam", "Uitgaand"],
         "spanish": ["Sociable"],
         "russian": ["Коммуникабельный / Коммуникабельная"]
     },
@@ -7400,7 +7400,7 @@
     "alternatives": {
         "dutch": ["De telefoon beantwoorden", "De telefoon oppakken"],
         "spanish": ["Responder al teléfono", "Atender el teléfono"],
-        "russian": ["Поднять трубку"]
+        "russian": ["Взять трубку"]
     },
     "tags": ["technology", "communication","phone call", "phone"],
     "otherKeyWords": ["phone", "call"],
@@ -7468,11 +7468,11 @@
     "english": "To send a text message***",
     "dutch": "Een berichtje sturen",
     "spanish": "Enviar un mensaje de texto",
-    "russian": "Отправить текстовое сообщение",
+    "russian": "Отправить сообщение",
     "alternatives": {
         "dutch": ["Een sms sturen", "Een sms-bericht sturen"],
         "spanish": ["Enviar un SMS", "Mandar un mensaje de texto"],
-        "russian": ["Отправить СМС", "Отправить смс-сообщение"]
+        "russian": ["Отправить СМС"]
     },
     "tags": ["technology", "communication","phone call", "phone"],
     "otherKeyWords": ["phone", "call", "message"],
