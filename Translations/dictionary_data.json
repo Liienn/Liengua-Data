@@ -3604,7 +3604,7 @@
         "spanish": ["Estar de mal humor"],
         "russian": ["Быть в плохом расположении духа"]
     },
-    "tags": ["sad", "frustrated", "pessimism", "angry"],
+    "tags": ["sad", "frustrated", "pessimism", "angry", "willingness"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3622,7 +3622,7 @@
         "spanish": ["Estar de buen humor"],
         "russian": ["Быть в хорошем расположении духа"]
     },
-    "tags": ["happy", "optimism", "excitement"],
+    "tags": ["happy", "optimism", "excitement", "willingness"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3640,7 +3640,7 @@
         "spanish": ["Ir con prisa"],
         "russian": ["Быть в спешке"]
     },
-    "tags": ["action", "time", "nervous"],
+    "tags": ["action", "time", "nervous", "willingness"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3766,7 +3766,7 @@
         "spanish": ["Esto es mucho"],
         "russian": ["Это чересчур"]
     },
-    "tags": ["boundary", "frustrated", "sad", "pessimism", "quantity"],
+    "tags": ["boundary", "frustrated", "sad", "pessimism", "quantity", "willingness"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3802,7 +3802,7 @@
         "spanish": ["¿Es realmente lo mejor?"],
         "russian": ["Это действительно правильное решение?"]
     },
-    "tags": ["discussion", "choice", "question", "disagreement"],
+    "tags": ["discussion", "choice", "question", "disagreement", "advice"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3820,7 +3820,7 @@
         "spanish": ["Estoy ocupado/a en este momento"],
         "russian": ["Я сейчас занят(а)"]
     },
-    "tags": ["action", "time", "willingness"],
+    "tags": ["action", "time", "willingness", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3838,7 +3838,7 @@
         "spanish": ["Estaré ocupado/a en ese momento"],
         "russian": ["Я буду занят(а) в это время"]
     },
-    "tags": ["action", "time", "willingness"],
+    "tags": ["action", "time", "willingness", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3856,7 +3856,7 @@
         "spanish": ["No estoy ocupado/a en este momento"],
         "russian": ["Я сейчас свободен(а)"]
     },
-    "tags": ["action", "time", "willingness"],
+    "tags": ["action", "time", "willingness", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3910,7 +3910,7 @@
         "spanish": ["Lo apuntaré", "Lo anotaré"],
         "russian": ["Я запишу это"]
     },
-    "tags": ["action", "willingness"],
+    "tags": ["action", "willingness", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3928,7 +3928,7 @@
         "spanish": ["Déjalo para después"],
         "russian": ["Оставь это на потом"]
     },
-    "tags": ["action", "willingness", "time"],
+    "tags": ["action", "willingness", "time", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -3982,7 +3982,7 @@
         "spanish": ["No me aburro", "Busco cosas para hacer"],
         "russian": ["Мне не скучно", "Я ищу чем заняться"]
     },
-    "tags": ["action", "willingness", "time"],
+    "tags": ["action", "willingness", "time", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4054,7 +4054,7 @@
         "spanish": ["Me he saltado algunas cosas"],
         "russian": []
     },
-    "tags": ["action", "willingness", "time"],
+    "tags": ["action", "willingness", "time", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4072,8 +4072,8 @@
         "spanish": ["Cada uno"],
         "russian": []
     },
-    "tags": ["comparison", "discussion", "certainty"],
-    "otherKeywords": [],
+    "tags": ["comparison", "discussion", "certainty", "equality"],
+    "otherKeywords": ["all of them", "every single one"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4091,7 +4091,7 @@
         "russian": ["В отличие", "Наоборот"]
     },
     "tags": ["discussion", "comparison"],
-    "otherKeywords": [],
+    "otherKeywords": ["the opposite", "not at all"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4144,7 +4144,7 @@
         "spanish": ["Fantasía"],
         "russian": ["Фантазия"]
     },
-    "tags": [],
+    "tags": ["skill"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4162,7 +4162,7 @@
         "spanish": ["Dejar a un lado", "Apartar"],
         "russian": ["Отложить в сторону"]
     },
-    "tags": ["action", "willingness", "time"],
+    "tags": ["action", "willingness", "time", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4198,8 +4198,8 @@
         "spanish": ["Seguro"],
         "russian": ["Безопасный"]
     },
-    "tags": ["discussion", "certainty", "people"],
-    "otherKeywords": [],
+    "tags": ["discussion", "certainty", "personality"],
+    "otherKeywords": ["trustworthy", "dependable"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4216,7 +4216,7 @@
         "spanish": ["¡Muéstramelo!"],
         "russian": ["Дай-ка посмотреть"]
     },
-    "tags": ["action", "request", "excitement"],
+    "tags": ["action", "request", "excitement", "command"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4306,7 +4306,7 @@
         "spanish": ["Adquirir experiencia"],
         "russian": ["Приобрести опыт"]
     },
-    "tags": ["action", "willingness"],
+    "tags": ["action", "willingness", "learning"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4324,7 +4324,7 @@
         "spanish": [],
         "russian": ["Получать удовольствие от новых впечатлений"]
     },
-    "tags": ["action", "willingness", "experience", "travel"],
+    "tags": ["action", "willingness", "experience", "travel", "learning"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4342,8 +4342,8 @@
         "spanish": ["¡Apúrate!", "¡Vamos!"],
         "russian": ["Скорее!", "Быстрее!"]
     },
-    "tags": ["action", "time", "frustrated", "angry"],
-    "otherKeywords": [],
+    "tags": ["action", "time", "frustrated", "angry", "command"],
+    "otherKeywords": ["hurry", "rush", "speed", "faster"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4360,7 +4360,7 @@
         "spanish": ["Servir agua"],
         "russian": []
     },
-    "tags": [],
+    "tags": ["food"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4378,7 +4378,7 @@
         "spanish": ["¡Eso es cierto!", "¡Sin duda!"],
         "russian": ["Это безусловно!"]
     },
-    "tags": ["certainty", "agreement", "discussion"],
+    "tags": ["certainty", "agreement", "discussion", "opinion"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4396,7 +4396,7 @@
         "spanish": ["Estoy haciendo acopio de cosas"],
         "russian": ["Я затариться вещами", "Я запасаюсь вещами"]
     },
-    "tags": [],
+    "tags": ["shopping"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4414,7 +4414,7 @@
         "spanish": ["Yo también hago lo mismo"],
         "russian": ["Я тоже так делаю"]
     },
-    "tags": [],
+    "tags": ["comparison", "agreement"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4432,7 +4432,7 @@
         "spanish": ["Es una forma de pensar interesante"],
         "russian": ["Это интересный образ мышления"]
     },
-    "tags": [],
+    "tags": ["opinion", "learning"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4468,7 +4468,7 @@
         "spanish": ["Un proyecto para toda la vida"],
         "russian": []
     },
-    "tags": ["duration", "other"],
+    "tags": ["duration", "other", "project", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4486,7 +4486,7 @@
         "spanish": [],
         "russian": ["Одним выстрелом двух зайцев"]
     },
-    "tags": ["idiom", "action"],
+    "tags": ["idiom", "action", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4523,7 +4523,7 @@
         "russian": ["Я подсел(а) на это"]
     },
     "tags": ["willingness", "action", "emotion"],
-    "otherKeywords": [],
+    "otherKeywords": ["addicted", "obsessed", "fascinated"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4541,7 +4541,7 @@
         "russian": ["Благородный / Благородная"]
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["charitable", "benevolent", "kind-hearted"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4559,7 +4559,7 @@
         "russian": ["Скупой / Скупая"]
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["avaricious", "selfish", "covetous"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4577,7 +4577,7 @@
         "russian": ["Искренний / Искренняя"]
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["truthful", "sincere", "trustworthy"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4595,7 +4595,7 @@
         "russian": ["Лживый / Лживая"]
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["deceitful", "untrustworthy", "fraudulent"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4613,7 +4613,7 @@
         "russian": ["Смелый / Смелая"]
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["courageous", "fearless", "bold"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4630,8 +4630,8 @@
         "spanish": ["Tímido"],
         "russian": ["Робкий / Робкая", "Трусливый / Трусливая"]
     },
-    "tags": ["personality"],
-    "otherKeywords": [],
+    "tags": ["personality", "nervous", "fear"],
+    "otherKeywords": ["nervous", "fearful", "anxious"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4649,7 +4649,7 @@
         "russian": []
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["diligent", "dedicated", "committed"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4667,7 +4667,7 @@
         "russian": ["Ленивец", "Лодырь"]
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["idle", "unproductive", "sluggish"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4685,7 +4685,7 @@
         "russian": ["Умелый / Умелая"]
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["smart", "clever", "brainy"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4703,7 +4703,7 @@
         "russian": ["Дурак / Дура"]
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["stupid", "dumb"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4721,7 +4721,7 @@
         "russian": ["Коммуникабельный / Коммуникабельная"]
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["social", "friendly", "extrovert"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4739,7 +4739,7 @@
         "russian": []
     },
     "tags": ["personality"],
-    "otherKeywords": [],
+    "otherKeywords": ["lonely", "shy", "introvert"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -4810,7 +4810,7 @@
         "spanish": ["Retorcerse de asco"],
         "russian": ["Извиваться", "Скрючиваться"]
     },
-    "tags": [],
+    "tags": ["other"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4828,7 +4828,7 @@
         "spanish": [],
         "russian": ["Залипнуть в телефон" ,"Приклеиться к экрану"]
     },
-    "tags": ["phone", "idiom"],
+    "tags": ["phone", "idiom", "personality"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4918,7 +4918,7 @@
         "spanish": ["Tener seguridad en algo"],
         "russian": ["Иметь уверенность в чем-то"]
     },
-    "tags": ["certainty", "opinion", "agreement", "optimism"],
+    "tags": ["certainty", "opinion", "agreement", "optimism", "skill"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -4954,7 +4954,7 @@
         "spanish": ["No puedo alcanzarte"],
         "russian": ["Я не могу за тобой поспевать", "Я за тобой не успеваю"]
     },
-    "tags": ["pessimism", "frustration", "skill"],
+    "tags": ["pessimism", "frustration", "skill", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5008,7 +5008,7 @@
         "spanish": ["¿Puedo pasar por aquí?"],
         "russian": ["Можно пройти?"]
     },
-    "tags": ["request", "direction"],
+    "tags": ["request", "direction", "people"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5044,7 +5044,7 @@
         "spanish": ["Ponlo aquí"],
         "russian": ["Положи это здесь"]
     },
-    "tags": ["command"],
+    "tags": ["command", "location"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5116,8 +5116,8 @@
         "spanish": ["Holgar"],
         "russian": ["Лентяйничать"]
     },
-    "tags": ["action", "personality", "willingness"],
-    "otherKeywords": [],
+    "tags": ["action", "personality", "willingness", "productivity"],
+    "otherKeywords": ["to be lazy", "to do nothing"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -5134,7 +5134,7 @@
         "spanish": ["Me enteré de algo"],
         "russian": ["Я осознал что-то"]
     },
-    "tags": ["discussion", "action", "surprise", "excitement"],
+    "tags": ["discussion", "action", "surprise", "excitement", "learning"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5152,7 +5152,7 @@
         "spanish": ["Llama cuando tengas tiempo"],
         "russian": ["Позвони, когда у тебя будет время"]
     },
-    "tags": ["phone", "time"],
+    "tags": ["phone", "time", "office"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5170,7 +5170,7 @@
         "spanish": [],
         "russian": ["Проветриться"]
     },
-    "tags": ["idom", "nature"],
+    "tags": ["idiom", "nature", "self-care"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5188,7 +5188,7 @@
         "spanish": ["Los descuentos"],
         "russian": ["Скидки"]
     },
-    "tags": ["finance"],
+    "tags": ["finance", "shopping"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5206,7 +5206,7 @@
         "spanish": ["Desalentar a alguien"],
         "russian": ["Разубедить кого-то"]
     },
-    "tags": ["discussion", "advice", "disagreement"],
+    "tags": ["discussion", "advice", "disagreement", "skill"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5224,7 +5224,7 @@
         "spanish": ["Dar ánimos a alguien"],
         "russian": ["Поддержать кого-то"]
     },
-    "tags": ["discussion", "advice"],
+    "tags": ["discussion", "advice", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5242,7 +5242,7 @@
         "spanish": ["Formativo"],
         "russian": ["Познавательный"]
     },
-    "tags": [],
+    "tags": ["learning", "skill", "education"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5260,7 +5260,7 @@
         "spanish": ["Hora de mayor tráfico"],
         "russian": ["Часы пик"]
     },
-    "tags": [],
+    "tags": ["traffic", "time", "travel"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -6583,7 +6583,7 @@
   },
   {
     "id": 346,
-    "english": "I advise you to come on time*",
+    "english": "I advise you to come on time",
     "dutch": "Ik raad je aan op tijd te komen",
     "spanish": "Te aconsejo que llegues a tiempo",
     "russian": "Я советую тебе прийти вовремя",
@@ -6601,7 +6601,7 @@
   },
   {
     "id": 347,
-    "english": "Can you come online?*",
+    "english": "Can you come online?",
     "dutch": "Kun je online komen?",
     "spanish": "¿Puedes conectarte?",
     "russian": "Ты можешь выйти в сеть?",
@@ -6619,7 +6619,7 @@
   },
   {
     "id": 348,	
-    "english": "There is no one there*",
+    "english": "There is no one there",
     "dutch": "Er is niemand daar",
     "spanish": "No hay nadie allí",
     "russian": "Там никого нет",
@@ -6637,7 +6637,7 @@
   },
   {
     "id": 349,
-    "english": "I will check this*",
+    "english": "I will check this",
     "dutch": "Ik zal dit nakijken",
     "spanish": "Voy a revisar esto",
     "russian": "Я проверю это",
@@ -6655,7 +6655,7 @@
   },
   {
     "id": 350,
-    "english": "I said this without thinking*",
+    "english": "I said this without thinking",
     "dutch": "Ik zei het zonder nadenken",
     "spanish": "Lo dije sin pensar",
     "russian": "Я сказал это не думая",
@@ -6673,7 +6673,7 @@
   },
   {
     "id": 351,
-    "english": "I am drinking tea while reading a book*",
+    "english": "I am drinking tea while reading a book",
     "dutch": "Ik drink thee terwijl ik een boek lees",
     "spanish": "Estoy bebiendo té mientras leo un libro",
     "russian": "Я пью чай, читая книгу",
@@ -6691,7 +6691,7 @@
   },
   {
     "id": 352,
-    "english": "This is a natural process*",
+    "english": "This is a natural process",
     "dutch": "Dit is een natuurlijk proces",
     "spanish": "Este es un proceso natural",
     "russian": "Это естественный процесс",
@@ -6709,7 +6709,7 @@
   },
   {
     "id": 353,
-    "english": "It turned out to be a mistake*",
+    "english": "It turned out to be a mistake",
     "dutch": "Het bleek een vergissing te zijn",
     "spanish": "Resultó ser un error",
     "russian": "Это оказалось ошибкой",
@@ -6718,7 +6718,7 @@
         "spanish": ["Resultó ser un fallo"],
         "russian": ["Это оказалось ошибочным", "Это оказалось неверным"]
     },
-    "tags": [],
+    "tags": ["discussion", "learning", "skill"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -6727,7 +6727,7 @@
   },
   {
     "id": 354,
-    "english": "Everything was explained very easily*",
+    "english": "Everything was explained very easily",
     "dutch": "Alles werd heel simpel uitgelegd",
     "spanish": "Todo se explicó muy fácilmente",
     "russian": "Всё объясняется очень просто",
@@ -6736,8 +6736,8 @@
         "spanish": ["Todo se explicó de manera sencilla"],
         "russian": ["Всё объясняется очень доступно", "Всё объяснили очень просто"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["opinion", "certainty", "learning", "skill"],
+    "otherKeywords": ["easy explanation", "simple explanation", "clear explanation"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -6754,7 +6754,7 @@
         "spanish": ["Nada positivo", "Nada que valga la pena"],
         "russian": ["Ничего положительного", "Ничего, что стоило бы упоминать"]
     },
-    "tags": [],
+    "tags": ["pessimism", "disagreement"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -6763,7 +6763,7 @@
   },
   {
     "id": 356,
-    "english": "There is nothing worse than this*",
+    "english": "There is nothing worse than this",
     "dutch": "Er is niets ergers dan dit",
     "spanish": "No hay nada peor que esto",
     "russian": "Ничего хуже этого нет",
@@ -6772,8 +6772,8 @@
         "spanish": ["No hay nada más malo que esto"],
         "russian": ["Нет ничего хуже этого", "Это худшее, что может быть"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["pessimism", "sad", "nervous", "frustration", "angry"],
+    "otherKeywords": ["this is the worst", "nothing can be worse"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -6781,7 +6781,7 @@
   },
   {
     "id": 357,
-    "english": "There is not one shell here*",
+    "english": "There is not one shell here",
     "dutch": "Er is hier niet één schelp",
     "spanish": "No hay ninguna concha aquí",
     "russian": "Здесь нет ни одной ракушки",
@@ -6790,8 +6790,8 @@
         "spanish": ["No hay ni una sola concha aquí"],
         "russian": []
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["quantity", "location"],
+    "otherKeywords": ["there are" , "none"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -6799,7 +6799,7 @@
   },
   {
     "id": 358,
-    "english": "I should have known better*",
+    "english": "I should have known better",
     "dutch": "Ik had beter moeten weten",
     "spanish": "Debería haberlo sabido mejor",
     "russian": "Я должен был знать лучше",
@@ -6808,7 +6808,7 @@
         "spanish": [],
         "russian": []
     },
-    "tags": [],
+    "tags": ["apology", "shame", "boundary"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -6817,7 +6817,7 @@
   },
   {
     "id": 359,
-    "english": "I should drink more water*",
+    "english": "I should drink more water",
     "dutch": "Ik zou meer water moeten drinken",
     "spanish": "Debería beber más agua",
     "russian": "Мне следует пить больше воды",
@@ -6826,7 +6826,7 @@
         "spanish": ["Debería tomar más agua", "Debería hidratarme más"],
         "russian": ["Мне нужно пить больше воды"]
     },
-    "tags": [],
+    "tags": ["advice", "health", "food"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -6835,7 +6835,7 @@
   },
   {
     "id": 360,
-    "english": "Life is suffering*",
+    "english": "Life is suffering",
     "dutch": "Het leven is lijden",
     "spanish": "La vida es sufrimiento",
     "russian": "Жизнь - это страдание",
@@ -6844,8 +6844,8 @@
         "spanish": ["La vida es dolor", "La vida es una lucha"],
         "russian": ["Жизнь - это боль", "Жизнь полна страданий"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["pessimism"],
+    "otherKeywords": ["life is hard", "life is difficult"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -6853,7 +6853,7 @@
   },
   {
     "id": 361,
-    "english": "Thanks anyway*",
+    "english": "Thanks anyway",
     "dutch": "Toch bedankt",
     "spanish": "Gracias de todos modos",
     "russian": "Спасибо в любом случае",
@@ -6862,8 +6862,8 @@
         "spanish": ["Gracias de todas formas", "Gracias igualmente"],
         "russian": ["Спасибо всё равно", "Спасибо за попытку"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["gratitude", "appreciation"],
+    "otherKeywords": ["thank you", "thanks for trying"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -6871,7 +6871,7 @@
   },
   {
     "id": 362,
-    "english": "If I remembered where it was, I would have found it*",
+    "english": "If I remembered where it was, I would have found it",
     "dutch": "Als ik wist waar het was, had ik het gevonden",
     "spanish": "Si supiera dónde estaba, lo habría encontrado",
     "russian": "Если бы я знал, где это, я бы нашёл это",
@@ -6880,7 +6880,7 @@
         "spanish": ["Si supiera dónde estaba, lo habría hallado"],
         "russian": ["Если бы я помнила, где это, то нашла бы это"]
     },
-    "tags": [],
+    "tags": ["discussion", "condition"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -6889,7 +6889,7 @@
   },
   {
     "id": 363,
-    "english": "I got the impression that it was not important*",
+    "english": "I got the impression that it was not important",
     "dutch": "Ik kreeg de indruk dat het niet belangrijk was",
     "spanish": "Tuve la impresión de que no era importante",
     "russian": "Мне показалось, что это не важно",
@@ -6898,8 +6898,8 @@
         "spanish": ["Tuve la sensación de que no era importante", "Me dio la impresión de que no era relevante"],
         "russian": ["У меня сложилось ощущение, что это не имеет значения", "У меня сложилось впечатление, что это не важно"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["opinion", "surprise", "indifference"],
+    "otherKeywords": ["I thought it was not important", "I felt it was not important"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -6907,7 +6907,7 @@
   },
   {
     "id": 364,
-    "english": "The thing is that she is right*",
+    "english": "The thing is that she is right",
     "dutch": "Eigenlijk heeft ze gelijk",
     "spanish": "En realidad, ella tiene razón",
     "russian": "На самом деле, она права",
@@ -6916,7 +6916,7 @@
         "spanish": ["En realidad, ella está en lo correcto", "En verdad, ella tiene razón"],
         "russian": ["Дело в том, что она права"]
     },
-    "tags": [],
+    "tags": ["agreement", "opinion", "certainty"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -6925,7 +6925,7 @@
   },
   {
     "id": 365,
-    "english": "Can I have those things?*",
+    "english": "Can I have those things?",
     "dutch": "Mag ik die hebben?",
     "spanish": "¿Puedo tener esas cosas?",
     "russian": "Можна мне вон те вещи?",
@@ -6934,8 +6934,8 @@
         "spanish": ["¿Puedo quedarme con esas cosas?", "¿Puedo llevarme esas cosas?"],
         "russian": ["Могу я взять эти вещи?", "Можно мне эти вещи?"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["question", "request"],
+    "otherKeywords": ["can I take", "can I get"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -6943,7 +6943,7 @@
   },
   {
     "id": 366,
-    "english": "Daily*",
+    "english": "Daily",
     "dutch": "Dagelijks",
     "spanish": "Diariamente",
     "russian": "Ежедневно",
@@ -6952,8 +6952,8 @@
         "spanish": ["Cada día", "A diario"],
         "russian": ["Каждый день"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["frequency"],
+    "otherKeywords": ["every day", "every single day"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -6961,7 +6961,7 @@
   },
   {
     "id": 367,
-    "english": "Weekly*",
+    "english": "Weekly",
     "dutch": "Wekelijks",
     "spanish": "Semanalmente",
     "russian": "Еженедельно",
@@ -6970,8 +6970,8 @@
         "spanish": ["Cada semana"],
         "russian": ["Каждую неделю"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["frequency"],
+    "otherKeywords": ["every week"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -6979,7 +6979,7 @@
   },
   {
     "id": 368,
-    "english": "Monthly*",
+    "english": "Monthly",
     "dutch": "Maandelijks",
     "spanish": "Mensualmente",
     "russian": "Ежемесячно",
@@ -6988,8 +6988,8 @@
         "spanish": ["Cada mes"],
         "russian": ["Каждый месяц"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["frequency"],
+    "otherKeywords": ["every month"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -6997,7 +6997,7 @@
   },
   {
     "id": 369,
-    "english": "Yearly*",
+    "english": "Yearly",
     "dutch": "Jaarlijks",
     "spanish": "Anualmente",
     "russian": "Ежегодно",
@@ -7006,8 +7006,8 @@
         "spanish": ["Cada año"],
         "russian": ["Каждый год"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["frequency"],
+    "otherKeywords": ["every year"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -7015,7 +7015,7 @@
   },
   {
     "id": 370,
-    "english": "They live in the same area*",
+    "english": "They live in the same area",
     "dutch": "Ze wonen in dezelfde buurt",
     "spanish": "Viven en la misma zona",
     "russian": "Они живут в одном районе",
@@ -7024,7 +7024,7 @@
         "spanish": ["Viven en la misma área", "Residen en la misma zona"],
         "russian": ["Они живут в том же районе", "Они живут в одной местности"]
     },
-    "tags": [],
+    "tags": ["location"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -7033,7 +7033,7 @@
   },
   {
     "id": 371,
-    "english": "Doing something reluctantly*",
+    "english": "Doing something reluctantly",
     "dutch": "Iets tegen je zin doen",
     "spanish": "Hacer algo a regañadientes",
     "russian": "Делать что-то из-под палки",
@@ -7042,7 +7042,7 @@
         "spanish": ["Hacer algo a desgana", "Hacer algo de mala gana"],
         "russian": ["Делать что-то неохотно", "Делать что-то с неохотой"]
     },
-    "tags": [],
+    "tags": ["willingness", "productivity", "interest", "frustrated"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -7051,7 +7051,7 @@
   },
   {
     "id": 372,
-    "english": "To make an attempt*",
+    "english": "To make an attempt",
     "dutch": "Een poging doen",
     "spanish": "Hacer un intento",
     "russian": "Попытаться",
@@ -7060,8 +7060,8 @@
         "spanish": ["Intentar", "Hacer un esfuerzo"],
         "russian": ["Попытаться сделать что-то", "Постараться", "Предпринять попытку"]	
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["willingness", "productivity", "interest"],
+    "otherKeywords": ["to try", "to attempt", "to make an effort"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -7069,7 +7069,7 @@
   },
   {
     "id": 373,
-    "english": "To postpone*",
+    "english": "To postpone",
     "dutch": "Uitstellen",
     "spanish": "Posponer",
     "russian": "Отложить",
@@ -7078,7 +7078,7 @@
         "spanish": ["Aplazar", "Retrasar"],
         "russian": ["Откладывать что-то", "Перенести что-то"]
     },
-    "tags": [],
+    "tags": ["productivity", "time", "willingness"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -7087,7 +7087,7 @@
   },
   {
     "id": 374,
-    "english": "There is no point in it*",
+    "english": "There is no point in it",
     "dutch": "Het heeft geen zin",
     "spanish": "No tiene sentido",
     "russian": "Нет смысла в этом",
@@ -7096,8 +7096,8 @@
         "spanish": ["No tiene propósito", "No vale la pena"],
         "russian": ["Это бессмысленно"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["pessimism", "opinion", "disagreement", "willingness"],
+    "otherKeywords": ["it has","there is","no purpose", "it is useless"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -7105,7 +7105,7 @@
   },
   {
     "id": 375,
-    "english": "We have nothing to lose*",
+    "english": "We have nothing to lose",
     "dutch": "We hebben niets te verliezen",
     "spanish": "No tenemos nada que perder",
     "russian": "Нам нечего терять",
@@ -7114,7 +7114,7 @@
         "spanish": [],
         "russian": []
     },
-    "tags": [],
+    "tags": ["optimism", "willingness", "hope"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -7123,7 +7123,7 @@
   },
   {
     "id": 376,
-    "english": "I need to catch up**",
+    "english": "I need to catch up*",
     "dutch": "Ik moet het inhalen",
     "spanish": "Necesito ponerme al día",
     "russian": "Мне нужно наверстать",
@@ -7132,8 +7132,8 @@
         "spanish": ["Necesito actualizarme", "Necesito recuperar el tiempo perdido"],
         "russian": ["Мне нужно догнать"]
     },
-    "tags": [],
-    "otherKeywords": [],
+    "tags": ["productivity", "time"],
+    "otherKeywords": ["catch up time"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -7141,7 +7141,7 @@
   },
   {
     "id": 377,
-    "english": "A compensation prize**",
+    "english": "A compensation prize*",
     "dutch": "De troostprijs",
     "spanish": "El premio de consolación",
     "russian": "Утешительный приз",
@@ -7150,7 +7150,7 @@
         "spanish": [],
         "russian": []
     },
-    "tags": [],
+    "tags": ["productivity", "appreciation"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -7159,7 +7159,7 @@
   },
   {
     "id": 378,
-    "english": "It kept haunting me**",
+    "english": "It kept haunting me*",
     "dutch": "Het bleef door mijn hoofd spoken",
     "spanish": "Me seguía atormentando",
     "russian": "Меня это преследовало",
@@ -7177,7 +7177,7 @@
   },
   {
     "id": 379,
-    "english": "Loud cheering**",
+    "english": "Loud cheering*",
     "dutch": "Luid gejuich",
     "spanish": "Aplausos estruendosos",
     "russian": "Громкие аплодисменты",
@@ -7186,7 +7186,7 @@
         "spanish": [],
         "russian": []
     },
-    "tags": [],
+    "tags": ["people", "appreciation", "excitement", "celebration"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -7195,7 +7195,7 @@
   },
   {
     "id": 380,
-    "english": "It was a trick question***",
+    "english": "It was a trick question**",
     "dutch": "Het was een strikvraag",
     "spanish": "Era una pregunta con truco",
     "russian": "Это был каверзный вопрос",
@@ -7205,7 +7205,7 @@
         "russian": ["Это был заковыристый вопрос", "Это был хитрый вопрос"]
     },
     "tags": [],
-    "otherKeywords": [],
+    "otherKeywords": ["equity", "pessimism", "discussion"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -7213,7 +7213,7 @@
   },
   {
     "id": 381,
-    "english": "I made a first draft***",
+    "english": "I made a first draft**",
     "dutch": "Ik heb een eerste versie gemaakt",
     "spanish": "Hice un primer borrador",
     "russian": "Я сделал первый черновик",
@@ -7222,7 +7222,7 @@
         "spanish": ["He hecho un primer borrador","Escribí un primer borrador" ],
         "russian": ["Я набросал первый черновик","Я сделал черновой вариант"]
     },
-    "tags": [],
+    "tags": ["leisure", "education", "productivity"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -7231,7 +7231,7 @@
   },
   {
     "id": 382,
-    "english": "It is planted on the right side of the garden***",
+    "english": "It is planted on the right side of the garden**",
     "dutch": "Het is geplant aan de rechterkant van de tuin",
     "spanish": "Está plantado en el lado derecho del jardín",
     "russian": "Посажено с правой стороны сада",
@@ -7249,7 +7249,7 @@
   },
   {
     "id": 383,
-    "english": "Boiled potato with peel***",
+    "english": "Boiled potato with peel**",
     "dutch": "Gekookte aardappel met schil",
     "spanish": "Patata cocida con la piel",
     "russian": "Картошка в мундире",
@@ -7258,7 +7258,7 @@
         "spanish": ["Papa hervida con cáscara"],
         "russian": ["Варёная картошка в кожуре"]
     },
-    "tags": [],
+    "tags": ["food"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -7267,7 +7267,7 @@
   },
   {
     "id": 384,
-    "english": "The sunlight reflected off the water***",
+    "english": "The sunlight reflected off the water**",
     "dutch": "Het zonlicht weerkaatste op het water",
     "spanish": "La luz del sol se reflejó en el agua",
     "russian": "Солнечный свет отражался от воды",
@@ -7285,7 +7285,7 @@
   },
   {
     "id": 385,
-    "english": "To let something slip****",
+    "english": "To let something slip***",
     "dutch": "Zich verspreken",
     "spanish": "Dejar escapar algo",
     "russian": "Случайно проговориться",
@@ -7303,7 +7303,7 @@
   },
   {
     "id": 386,
-    "english": "To beat someome up****",
+    "english": "To beat someome up***",
     "dutch": "Iemand te grazen nemen",
     "spanish": "Golpear a alguien",
     "russian": "Избить кого-то",
@@ -7312,12 +7312,16 @@
         "spanish": ["Golpear a alguien duramente", "Dar una paliza a alguien"],
         "russian": ["Избить кого-то до полусмерти", "Избить кого-то жестоко"]
     },
-    "tags": [],
-    "otherKeywords": []
+    "tags": ["idiom", "action"],
+    "otherKeywords": [],
+    "synonymIds": [],
+    "linkedIds": [],
+    "collections": [],
+    "linkedVerbIds": []
     },
   {
     "id": 387,
-    "english": "To be up to something****",
+    "english": "To be up to something***",
     "dutch": "Iets in je schild voeren",
     "spanish": "Estar tramando algo",
     "russian": "Что-то задумать",
@@ -7326,7 +7330,7 @@
         "spanish": ["Estar planeando algo", "Tener un plan secreto"],
         "russian": ["Что-то замышлять"]
     },
-    "tags": [],
+    "tags": ["idiom"],
     "otherKeywords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -7335,7 +7339,7 @@
   },
   {
     "id": 388,
-    "english": "To charge a device****",
+    "english": "To charge a device***",
     "dutch": "Iets opladen",
     "spanish": "Cargar un dispositivo",
     "russian": "Зарядить устройство",
@@ -7353,7 +7357,7 @@
   },
   {
     "id": 389,
-    "english": "The battery is dead****",
+    "english": "The battery is dead***",
     "dutch": "De batterij is leeg",
     "spanish": "La batería está descargada",
     "russian": "Аккумулятор разряжен",
@@ -7371,7 +7375,7 @@
   },
   {
     "id": 390,
-    "english": "The charger****",
+    "english": "The charger***",
     "dutch": "De oplader",
     "spanish": "El cargador",
     "russian": "Зарядка",
@@ -7389,7 +7393,7 @@
   },
   {
     "id": 391,
-    "english": "To answer the phone****",
+    "english": "To answer the phone***",
     "dutch": "De telefoon opnemen",
     "spanish": "Contestar el teléfono",
     "russian": "Ответить на звонок",
@@ -7407,7 +7411,7 @@
   },
   {
     "id": 392,
-    "english": "To hang up the phone****",
+    "english": "To hang up the phone***",
     "dutch": "De telefoon ophangen",
     "spanish": "Colgar el teléfono",
     "russian": "Положить трубку",
@@ -7425,7 +7429,7 @@
   },
   {
     "id": 393,
-    "english": "To call someone back****",
+    "english": "To call someone back***",
     "dutch": "Iemand terugbellen",
     "spanish": "Devolver la llamada",
     "russian": "Перезвонить кому-то",
@@ -7443,7 +7447,7 @@
   },
   {
     "id": 394,
-    "english": "To leave a message****",
+    "english": "To leave a message***",
     "dutch": "Een bericht achterlaten",
     "spanish": "Dejar un mensaje",
     "russian": "Оставить сообщение",
@@ -7461,7 +7465,7 @@
   },
   {
     "id": 395,
-    "english": "To send a text message****",
+    "english": "To send a text message***",
     "dutch": "Een berichtje sturen",
     "spanish": "Enviar un mensaje de texto",
     "russian": "Отправить текстовое сообщение",
@@ -7472,6 +7476,96 @@
     },
     "tags": ["technology", "communication","phone call", "phone"],
     "otherKeywords": ["phone", "call", "message"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 396,
+    "english": "To have something in arms reach****",
+    "dutch": "Iets binnen handbereik hebben",
+    "spanish": "Tener algo a mano",
+    "russian": "Иметь что-то под рукой",
+    "alternatives": {
+        "dutch": ["Iets bij de hand hebben", "Iets dichtbij hebben"],
+        "spanish": ["Tener algo al alcance de la mano", "Tener algo cerca"],
+        "russian": ["Иметь что-то в пределах досягаемости", "Иметь что-то рядом"]
+    },
+      "tags": ["idiom", "location"],
+      "otherKeywords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 397,
+    "english": "To be in the same boat****",
+    "dutch": "In dezelfde situatie zitten",
+    "spanish": "Estar en el mismo barco",
+    "russian": "Быть в одной лодке",
+    "alternatives": {
+        "dutch": ["In hetzelfde schuitje zitten", "In dezelfde omstandigheden verkeren"],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["idiom"],
+      "otherKeywords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 398,
+    "english": "An offer****",
+    "dutch": "Een aanbod",
+    "spanish": "Una oferta",
+    "russian": "Предложение",
+    "alternatives": {
+        "dutch": ["Een voorstel", "Een aanbieding"],
+        "spanish": ["Una propuesta", "Una oferta comercial"],
+        "russian": ["Коммерческое предложение"]
+    },
+      "tags": ["shopping"],
+      "otherKeywords": ["proposal"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 399,
+    "english": "To push something over****",
+    "dutch": "Iets omstoten",
+    "spanish": "Derribar algo",
+    "russian": "Опрокинуть что-то",
+    "alternatives": {
+        "dutch": ["Iets omver duwen", "Iets omgooien"],
+        "spanish": ["Volcar algo", "Tumbar algo"],
+        "russian": ["Сбить что-то с ног"]
+    },
+      "tags": [],
+      "otherKeywords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+   {
+    "id": 400,
+    "english": "Something does not add up****",
+    "dutch": "Er klopt iets niet",
+    "spanish": "Algo no cuadra",
+    "russian": "Что-то не сходится",
+    "alternatives": {
+        "dutch": ["Het houdt geen steek"],
+        "spanish": ["No tiene sentido", "No concuerda"],
+        "russian": ["Это не складывается"]
+    },
+      "tags": ["uncertainty", "disagreement"],
+      "otherKeywords": ["it does not make sense", "it does not add up", "something is off"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
