@@ -118,7 +118,7 @@
         "spanish": ["¿Quieres seguir leyendo?", "¿Continuamos la lectura?"],
         "russian": ["Читать дальше?", "Будем продолжать читать?", "Хочешь продолжить читать?", "Не продолжить ли нам читать?"]
     },
-    "tags": ["question"],
+    "tags": ["question", "learning"],
     "otherKeyWords": ["books", "literature"],
       "synonymIds": [],
       "linkedIds": [],
@@ -173,7 +173,7 @@
       "russian": ["Когда?", "В какое время?", "Когда именно?"]
     },
     "tags": ["question", "time"],
-    "otherKeyWords": ["hour", "when"],
+    "otherKeyWords": ["at what", "hour", "when"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -191,7 +191,7 @@
         "russian": ["Как часто это бывает?", "Как регулярно?", "Как часто это происходит?"]
     },
     "tags": ["question", "frequency"],
-    "otherKeyWords": ["frequency", "regularity"],
+    "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -208,8 +208,8 @@
         "spanish": ["¿Cuál de ellos?", "¿Cuál exactamente?", "¿Cuál de los (dos/tres/...)?"],
         "russian": ["Какой из них?", "Какой именно?"]
     },
-    "tags": ["question", "choice"],
-    "otherKeyWords": ["choice", "selection","preference"],
+    "tags": ["question", "choice", "categorization"],
+    "otherKeyWords": ["which", "choice", "selection","what preference"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -226,8 +226,8 @@
         "spanish": ["En caso de que", "Para el caso de que"],
         "russian": ["Для всякого случая", "На случай чего-то"]
     },
-    "tags": ["expression"],
-    "otherKeyWords": ["condition", "situation"],
+    "tags": ["expression", "condition"],
+    "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -235,17 +235,17 @@
   },
   {
     "id": 14,
-    "english": "What kind (of...)?",
+    "english": "What kind?",
     "dutch": "Welke?",
-    "spanish": "¿Qué tipo (de...)?",
+    "spanish": "¿Qué tipo?",
     "russian": "Какой?",
     "alternatives": {
         "dutch": ["Wat voor?", "Welke soort?", "Wat voor soort?"],
-        "spanish": ["¿Qué clase (de...)?", "¿Qué clase de...?"],
+        "spanish": ["¿Qué clase?"],
         "russian": ["Что за...? "]
     },
     "tags": [ "question", "categorization"],
-    "otherKeyWords": ["type", "category", "which kind", "what sort"],
+    "otherKeyWords": ["what", "which", "type", "category", "which kind", "sort"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -280,8 +280,8 @@
         "spanish": ["No entiendo", "Me siento perdido/a"],
         "russian": ["Это меня путает", "Я не понимаю", "Я в замешательстве"]
     },
-    "tags": [ "emotion"],
-    "otherKeyWords": ["confusion", "uncertainty"],
+    "tags": [ "emotion", "confusion", "uncertainty"],
+    "otherKeyWords": ["confusion", "I am uncertainty"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -298,8 +298,8 @@
         "spanish": ["¡Ojalá fuera así!", "¡Si tan solo fuera cierto!"],
         "russian": ["Если бы!", "Если бы так было!"]
     },
-    "tags": [ "wish"],
-    "otherKeyWords": ["wish", "hope", "desire"],
+    "tags": [ "wish", "willingness"],
+    "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -317,7 +317,7 @@
         "russian": ["без вопросов", "Я не буду спрашивать", "Не буду спрашивать"]
     },
     "tags": [ "expression"],
-    "otherKeyWords": ["question", "inquiry"],
+    "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -334,8 +334,8 @@
         "spanish": ["Estoy ansioso/a", "Espero con ansias", "No aguanto más", "Estoy deseando"],
         "russian": ["Жду с нетерпением", "Мне не терпится", "Жду как не в себя", "Невозможно дождаться"]
     },
-    "tags": [ "emotion", "expression"],
-    "otherKeyWords": ["excitement", "anticipation"],
+    "tags": [ "emotion", "excitement", "appreciation", "willingness"],
+    "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -352,7 +352,7 @@
         "spanish": ["No me gusta desperdiciar dinero", "Me molesta malgastar dinero"],
         "russian": ["Я не люблю тратить деньги впустую", "Мне не нравится тратить деньги зря"]
     },
-    "tags": [ "finance"],
+    "tags": [ "finance", "shopping"],
     "otherKeyWords": ["I don't like spending", "coins", "finance"],
       "synonymIds": [],
       "linkedIds": [],
@@ -389,7 +389,7 @@
         "russian": ["Что ты думаешь?", "Как ты считаешь?"]
     },
     "tags": ["discussion","question"],
-    "otherKeyWords": ["thought", "belief"],
+    "otherKeyWords": ["what do you think", "what is your view", "what is your perspective"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -407,7 +407,7 @@
         "russian": ["С какой целью?", "Почему?"]
     },
     "tags": ["discussion", "question"],
-    "otherKeyWords": ["what purpose", "for what reason"],
+    "otherKeyWords": ["what purpose", "for what reason", "why?"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -497,7 +497,7 @@
         "russian": ["Почему так?", "Как это получилось?"]
     },
     "tags": ["discussion","question"],
-    "otherKeyWords": ["what is the reason", "cause", "why"],
+    "otherKeyWords": ["what is the", "reason", "cause", "why"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -605,7 +605,7 @@
         "russian": ["Сколько времени?"]
     },
     "tags": [ "question", "time"],
-    "otherKeyWords": ["time", "clock", "watch", "schedule", "timetable", "calendar", "date", "day", "month", "year", "second", "minute", "hour"],
+    "otherKeyWords": ["clock", "watch", "schedule", "timetable", "calendar", "date", "day", "month", "year", "second", "minute", "hour"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -623,7 +623,7 @@
         "russian": ["Можешь повторить?", "Не мог бы ты повторить?"]
     },
     "tags": ["discussion","question"],
-    "otherKeyWords": ["reiteration", "repetition", "can you say that again"],
+    "otherKeyWords": ["reiteration", "repetition", "can you say that again?"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -904,7 +904,7 @@
             "Минутку, пожалуйста"
         ]
     },
-    "tags": [ "request", "discussion"],
+    "tags": [ "request", "discussion", "command"],
     "otherKeyWords": ["wait a second", "wait a minute", "hold on", "hang on"],
       "synonymIds": [],
       "linkedIds": [],
@@ -967,7 +967,7 @@
             "Поехали"
         ]
     },
-    "tags": [ "action"],
+    "tags": [ "action", "movement", "willingness","productivity"],
     "otherKeyWords": ["let's start", "let's begin", "let's leave", "let's move"],
       "synonymIds": [],
       "linkedIds": [],
@@ -996,7 +996,7 @@
             "Надеюсь на это"
         ]
     },
-    "tags": [ "hope"],
+    "tags": [ "hope", "willingness"],
     "otherKeyWords": ["I wish", "I trust", "I expect"],
       "synonymIds": [],
       "linkedIds": [],
@@ -1266,7 +1266,7 @@
         "Мне нужно подумать"
       ]
     },
-      "tags": ["request", "discussion"],
+      "tags": ["request", "discussion", "command"],
       "otherKeyWords": ["hold on", "give me a moment", "let me consider"],
       "synonymIds": [],
       "linkedIds": [],
@@ -1383,7 +1383,7 @@
       ]
     },
       "tags": ["duration"],
-      "otherKeyWords": [],
+      "otherKeyWords": ["gradually", "step by step", "little by little"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -1414,7 +1414,7 @@
       ]
     },
       "tags": ["expression", "opinion"],
-      "otherKeyWords": [],
+      "otherKeyWords": ["as it appears to me", "it appears that", "it looks like"],
       "synonymIds": [61],
       "linkedIds": [],
       "collections": [],
@@ -1435,7 +1435,7 @@
       "russian": [
       ]
     },
-      "tags": [],
+      "tags": ["time", "duration"],
       "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -1651,8 +1651,8 @@
         "До собрания"
       ]
     },
-      "tags": ["time", "meeting"],
-      "otherKeyWords": [],
+      "tags": ["time", "office", "phone", "communication"],
+      "otherKeyWords": ["before the call", "before the appointment", "before the discussion"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -2210,11 +2210,11 @@
   {
     "id": 103,
     "english": "I am frustrated",
-    "dutch": "Ik ben gefrustreerd (door)",
+    "dutch": "Ik ben gefrustreerd",
     "spanish": "Estoy frustrado/a",
     "russian": "Я расстроен(а)",
     "alternatives": {
-        "dutch": ["Ik ben geïrriteerd (door)"],
+        "dutch": ["Ik ben geïrriteerd"],
         "spanish": ["Estoy molesto/a"],
         "russian": ["Я раздражен(а)"]
     },
@@ -2416,7 +2416,7 @@
         "spanish": [],
         "russian": []
     },
-      "tags": ["idiom", "comparison"],
+      "tags": ["idiom", "comparison", "relations"],
       "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -7566,6 +7566,24 @@
     },
       "tags": ["uncertainty", "disagreement"],
       "otherKeyWords": ["it does not make sense", "it does not add up", "something is off"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 401,
+    "english": "To be skilled at something****",
+    "dutch": "Ergens goed in zijn",
+    "spanish": "Ser hábil en algo",
+    "russian": "Уметь что-то делать",
+    "alternatives": {
+        "dutch": ["Iets goed kunnen", "Goed zijn in iets", "Ergens vaardig in zijn", "Ergens veel van af weten"],
+        "spanish": ["Ser experto en algo", "Tener habilidad en algo"],
+        "russian": ["Быть искусным в чем-то", "Иметь навыки в чем-то"]
+    },
+      "tags": ["skill", "productivity", "interest"],
+      "otherKeyWords": ["to be good at", "to be proficient in", "to excel at"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
