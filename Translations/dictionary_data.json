@@ -7490,7 +7490,7 @@
     "alternatives": {
         "dutch": ["Iets bij de hand hebben", "Iets dichtbij hebben"],
         "spanish": ["Tener algo al alcance de la mano", "Tener algo cerca"],
-        "russian": ["Иметь что-то в пределах досягаемости", "Иметь что-то рядом"]
+        "russian": ["Иметь что-то рядом"]
     },
       "tags": ["idiom", "location"],
       "otherKeyWords": [],
@@ -7544,7 +7544,7 @@
     "alternatives": {
         "dutch": ["Iets omver duwen", "Iets omgooien"],
         "spanish": ["Volcar algo", "Tumbar algo"],
-        "russian": ["Сбить что-то с ног"]
+        "russian": ["Сбить что-то с ног", "Столкнуть"]
     },
       "tags": [],
       "otherKeyWords": [],
@@ -7598,7 +7598,7 @@
     "alternatives": {
         "dutch": ["Een oproep afwijzen"],
         "spanish": [],
-        "russian": []
+        "russian": ["Сбросить"]
     },
       "tags": ["phone", "communication", "call"],
       "otherKeyWords": [],
@@ -7616,7 +7616,7 @@
     "alternatives": {
         "dutch": ["Ermee tevreden zijn", "Tevreden zijn met iets"],
         "spanish": ["Estar satisfecho con algo"],
-        "russian": ["Быть довольным чем-то", "быть удовлетворённым чем-то"]
+        "russian": ["Быть довольным чем-то"]
     },
       "tags": ["willingness", "agreement", "preference"],
       "otherKeyWords": ["to accept", "to be content with", "to be happy with"],
