@@ -7416,7 +7416,7 @@
     "spanish": "Colgar el teléfono",
     "russian": "Положить трубку",
     "alternatives": {
-        "dutch": ["De telefoon afleggen", "Het gesprek beëindigen", "Het gesprek afleggen"],
+        "dutch": ["De telefoon neerleggen", "Het gesprek beëindigen", "Het gesprek afleggen"],
         "spanish": ["Terminar la llamada"],
         "russian": ["Завершить звонок"]
     },
@@ -7620,6 +7620,96 @@
     },
       "tags": ["willingness", "agreement", "preference"],
       "otherKeyWords": ["to accept", "to be content with", "to be happy with"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 404,
+    "english": "To catch up****",
+    "dutch": "Bijpraten",
+    "spanish": "Ponerse al día",
+    "russian": "Наверстать упущенное",
+    "alternatives": {
+        "dutch": ["Bijbabbelen"],
+        "spanish": ["Actualizarse"],
+        "russian": ["Догнать"]
+    },
+      "tags": ["communication"],
+      "otherKeyWords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 405,
+    "english": "To prove something****",
+    "dutch": "Iets bewijzen",
+    "spanish": "Probar algo",
+    "russian": "Доказать что-то",
+    "alternatives": {
+        "dutch": ["Iets aantonen"],
+        "spanish": ["Demostrar algo", "Comprobar algo"],
+        "russian": ["Подтвердить что-то"]
+    },
+      "tags": ["certainty", "discussion"],
+      "otherKeyWords": ["to show", "to demonstrate", "to verify"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 406,
+    "english": "To stand up for oneself****",
+    "dutch": "Opkomen voor zichzelf",
+    "spanish": "Defenderse a sí mismo",
+    "russian": "Постоять за себя",
+    "alternatives": {
+        "dutch": ["Voor jezelf opkomen", "Zichzelf verdedigen"],
+        "spanish": ["Defenderse a uno mismo", "Hacerse valer"],
+        "russian": ["Защищать себя"]
+    },
+      "tags": ["emotion", "self-care", "discussion"],
+      "otherKeyWords": ["to defend oneself", "to assert oneself"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 407,
+    "english": "To beat****",
+    "dutch": "Verslaan",
+    "spanish": "Vencer",
+    "russian": "Победить",
+    "alternatives": {
+        "dutch": ["Overwinnen"],
+        "spanish": ["Superar", "Derrotar"],
+        "russian": ["Преодолеть", "Победить в соревновании"]
+    },
+      "tags": ["discussion"],
+      "otherKeyWords": ["to win", "to defeat", "to overcome"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 408,
+    "english": "To shade a drawing****",
+    "dutch": "Schaduw toevoegen aan een tekening",
+    "spanish": "Añadir sombra a un dibujo",
+    "russian": "Нарисовать свето-тень в рисунке",
+    "alternatives": {
+        "dutch": ["Schaduw aanbrengen in een tekening"],
+        "spanish": ["Sombras en un dibujo"],
+        "russian": ["Добавить тень к рисунку", "Рисовать объемы"]
+    },
+      "tags": ["art"],
+      "otherKeyWords": ["to add shadow", "to shade", "to draw"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
