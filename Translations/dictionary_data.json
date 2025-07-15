@@ -615,11 +615,11 @@
     "id": 35,
     "english": "Can you repeat that?",
     "dutch": "Kun je dat herhalen?",
-    "spanish": "¿Puedes repetir eso?",
+    "spanish": "¿Puedes repetirlo?",
     "russian": "Можешь повторить это?",
     "alternatives": {
         "dutch": ["Kan je dat nog eens zeggen?", "Wil je dat herhalen?"],
-        "spanish": ["¿Puedes decirlo de nuevo?", "¿Me puedes repetir eso?"],
+        "spanish": ["¿Puedes decirlo de nuevo?"],
         "russian": ["Можешь повторить?", "Не мог бы ты повторить?"]
     },
     "tags": ["discussion","question"],
@@ -1724,7 +1724,7 @@
     "id": 77,
     "english": "By the end of the week",
     "dutch": "Tegen het einde van de week",
-    "spanish": "Para el final de la semana",
+    "spanish": "Para el fin de la semana",
     "russian": "К концу недели",
     "alternatives": {
       "dutch": ["Aan het einde van de week", "Voor het eind van de week"],
@@ -1850,11 +1850,11 @@
     "id": 84,
     "english": "At midnight",
     "dutch": "Om middernacht",
-    "spanish": "A medianoche",
+    "spanish": "A la medianoche",
     "russian": "Полночь",
     "alternatives": {
         "dutch": ["Midden in de nacht"],
-        "spanish": ["A la medianoche"],
+        "spanish": [],
         "russian": ["В полночь"]
     },
       "tags": ["time"],
@@ -1886,11 +1886,11 @@
     "id": 86,
     "english": "From morning till evening",
     "dutch": "Van 's morgens tot 's avonds",
-    "spanish": "De mañana a noche",
+    "spanish": "De la mañana hasta la noche",
     "russian": "С утра до вечера",
     "alternatives": {
         "dutch": ["Van 's ochtends tot 's avonds"],
-        "spanish": ["Desde la mañana hasta la noche"],
+        "spanish": [],
         "russian": []
     },
       "tags": ["duration"],
@@ -3381,11 +3381,11 @@
     "id": 168,
     "english": "I can't even though I want to",
     "dutch": "Ik kan niet, hoewel ik het zou willen",
-    "spanish": "No puedo aunque quiero",
+    "spanish": "No podria aunque quisiera",
     "russian": "Я не могу, хотя хочу",
     "alternatives": {
       "dutch": ["Ik kan het niet, ook al wil ik het"],
-      "spanish": ["No soy capaz aunque quiera"],
+      "spanish": [],
       "russian": ["Не могу, хотя очень хочу"]
     },
     "tags": ["pessimism", "frustrated", "action", "wish"],
@@ -3453,11 +3453,11 @@
     "id": 172,
     "english": "Unsurprisingly",
     "dutch": "Niet verrassend",
-    "spanish": "No es sorprendente",
+    "spanish": "Para variar",
     "russian": "Неудивительно",
     "alternatives": {
       "dutch": ["Geen wonder", "Het is geen wonder (dat)", "Het is geen verrassing (dat)"],
-      "spanish": ["No es de extrañar"],
+      "spanish": [],
       "russian": ["Это неудивительно"]
     },
     "tags": ["discussion", "certainty"],
@@ -7710,6 +7710,60 @@
     },
       "tags": ["art"],
       "otherKeyWords": ["to add shadow", "to shade", "to draw"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 409,
+    "english": "Negotiations****",
+    "dutch": "Onderhandelingen",
+    "spanish": "Negociaciones",
+    "russian": "Переговоры",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["discussion", "opinion", "obligation"],
+      "otherKeyWords": ["to negotiate", "to discuss", "to bargain"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 410,
+    "english": "To be uncoinscious****",
+    "dutch": "Bewusteloos zijn",
+    "spanish": "Estar inconsciente",
+    "russian": "Быть без сознания",
+    "alternatives": {
+        "dutch": ["Buiten Westen zijn"],
+        "spanish": ["Perder el conocimiento"],
+        "russian": ["Потерять сознание", "Быть в обмороке"]
+    },
+      "tags": ["health"],
+      "otherKeyWords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 411,
+    "english": "To refuse something****",
+    "dutch": "Iets weigeren",
+    "spanish": "Rechazar algo",
+    "russian": "Отказаться от чего-то",
+    "alternatives": {
+        "dutch": ["Iets afwijzen", "Iets niet accepteren"],
+        "spanish": ["Negarse a algo", "No aceptar algo"],
+        "russian": ["Отклонить что-то"]
+    },
+      "tags": ["discussion", "opinion", "willingness"],
+      "otherKeyWords": ["to decline", "to reject", "to turn down"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
