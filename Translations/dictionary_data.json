@@ -7123,7 +7123,7 @@
   },
   {
     "id": 376,
-    "english": "I need to catch up*",
+    "english": "I need to catch up",
     "dutch": "Ik moet het inhalen",
     "spanish": "Necesito ponerme al día",
     "russian": "Мне нужно наверстать",
@@ -7141,7 +7141,7 @@
   },
   {
     "id": 377,
-    "english": "A compensation prize*",
+    "english": "A compensation prize",
     "dutch": "De troostprijs",
     "spanish": "El premio de consolación",
     "russian": "Утешительный приз",
@@ -7159,7 +7159,7 @@
   },
   {
     "id": 378,
-    "english": "It kept haunting me*",
+    "english": "It kept haunting me",
     "dutch": "Het bleef door mijn hoofd spoken",
     "spanish": "Me seguía atormentando",
     "russian": "Меня это преследовало",
@@ -7177,7 +7177,7 @@
   },
   {
     "id": 379,
-    "english": "Loud cheering*",
+    "english": "Loud cheering",
     "dutch": "Luid gejuich",
     "spanish": "Aplausos estruendosos",
     "russian": "Громкие аплодисменты",
@@ -7195,7 +7195,7 @@
   },
   {
     "id": 380,
-    "english": "It was a trick question**",
+    "english": "It was a trick question*",
     "dutch": "Het was een strikvraag",
     "spanish": "Era una pregunta con truco",
     "russian": "Это был каверзный вопрос",
@@ -7213,7 +7213,7 @@
   },
   {
     "id": 381,
-    "english": "I made a first draft**",
+    "english": "I made a first draft*",
     "dutch": "Ik heb een eerste versie gemaakt",
     "spanish": "Hice un primer borrador",
     "russian": "Я сделал первый черновик",
@@ -7231,7 +7231,7 @@
   },
   {
     "id": 382,
-    "english": "It is planted on the right side of the garden**",
+    "english": "It is planted on the right side of the garden*",
     "dutch": "Het is geplant aan de rechterkant van de tuin",
     "spanish": "Está plantado en el lado derecho del jardín",
     "russian": "Посажено с правой стороны сада",
@@ -7249,7 +7249,7 @@
   },
   {
     "id": 383,
-    "english": "Boiled potato with peel**",
+    "english": "Boiled potato with peel*",
     "dutch": "Gekookte aardappel met schil",
     "spanish": "Patata cocida con la piel",
     "russian": "Картошка в мундире",
@@ -7267,7 +7267,7 @@
   },
   {
     "id": 384,
-    "english": "The sunlight reflected off the water**",
+    "english": "The sunlight reflected off the water*",
     "dutch": "Het zonlicht weerkaatste op het water",
     "spanish": "La luz del sol se reflejó en el agua",
     "russian": "Солнечный свет отражался от воды",
@@ -7285,7 +7285,7 @@
   },
   {
     "id": 385,
-    "english": "To let something slip***",
+    "english": "To let something slip**",
     "dutch": "Zich verspreken",
     "spanish": "Dejar escapar algo",
     "russian": "Случайно проговориться",
@@ -7303,7 +7303,7 @@
   },
   {
     "id": 386,
-    "english": "To beat someome up***",
+    "english": "To beat someome up**",
     "dutch": "Iemand te grazen nemen",
     "spanish": "Golpear a alguien",
     "russian": "Избить кого-то",
@@ -7321,7 +7321,7 @@
     },
   {
     "id": 387,
-    "english": "To be up to something***",
+    "english": "To be up to something**",
     "dutch": "Iets in je schild voeren",
     "spanish": "Estar tramando algo",
     "russian": "Что-то задумать",
@@ -7339,7 +7339,7 @@
   },
   {
     "id": 388,
-    "english": "To charge a device***",
+    "english": "To charge a device**",
     "dutch": "Iets opladen",
     "spanish": "Cargar un dispositivo",
     "russian": "Зарядить устройство",
@@ -7357,7 +7357,7 @@
   },
   {
     "id": 389,
-    "english": "The battery is dead***",
+    "english": "The battery is dead**",
     "dutch": "De batterij is leeg",
     "spanish": "La batería está descargada",
     "russian": "Аккумулятор разряжен",
@@ -7375,7 +7375,7 @@
   },
   {
     "id": 390,
-    "english": "The charger***",
+    "english": "The charger**",
     "dutch": "De oplader",
     "spanish": "El cargador",
     "russian": "Зарядка",
@@ -7393,7 +7393,7 @@
   },
   {
     "id": 391,
-    "english": "To answer the phone***",
+    "english": "To answer the phone**",
     "dutch": "De telefoon opnemen",
     "spanish": "Contestar el teléfono",
     "russian": "Ответить на звонок",
@@ -7411,7 +7411,7 @@
   },
   {
     "id": 392,
-    "english": "To hang up the phone***",
+    "english": "To hang up the phone**",
     "dutch": "De telefoon ophangen",
     "spanish": "Colgar el teléfono",
     "russian": "Положить трубку",
@@ -7429,7 +7429,7 @@
   },
   {
     "id": 393,
-    "english": "To call someone back***",
+    "english": "To call someone back**",
     "dutch": "Iemand terugbellen",
     "spanish": "Devolver la llamada",
     "russian": "Перезвонить кому-то",
@@ -7447,7 +7447,7 @@
   },
   {
     "id": 394,
-    "english": "To leave a message***",
+    "english": "To leave a message**",
     "dutch": "Een bericht achterlaten",
     "spanish": "Dejar un mensaje",
     "russian": "Оставить сообщение",
@@ -7465,7 +7465,7 @@
   },
   {
     "id": 395,
-    "english": "To send a text message***",
+    "english": "To send a text message**",
     "dutch": "Een berichtje sturen",
     "spanish": "Enviar un mensaje de texto",
     "russian": "Отправить сообщение",
@@ -7483,7 +7483,7 @@
   },
   {
     "id": 396,
-    "english": "To have something in arms reach****",
+    "english": "To have something in arms reach***",
     "dutch": "Iets binnen handbereik hebben",
     "spanish": "Tener algo a mano",
     "russian": "Иметь что-то под рукой",
@@ -7501,7 +7501,7 @@
   },
   {
     "id": 397,
-    "english": "To be in the same boat****",
+    "english": "To be in the same boat***",
     "dutch": "In dezelfde situatie zitten",
     "spanish": "Estar en el mismo barco",
     "russian": "Быть в одной лодке",
@@ -7519,7 +7519,7 @@
   },
   {
     "id": 398,
-    "english": "An offer****",
+    "english": "An offer***",
     "dutch": "Een aanbod",
     "spanish": "Una oferta",
     "russian": "Предложение",
@@ -7537,7 +7537,7 @@
   },
   {
     "id": 399,
-    "english": "To push something over****",
+    "english": "To push something over***",
     "dutch": "Iets omstoten",
     "spanish": "Derribar algo",
     "russian": "Опрокинуть что-то",
@@ -7555,7 +7555,7 @@
   },
    {
     "id": 400,
-    "english": "Something does not add up****",
+    "english": "Something does not add up***",
     "dutch": "Er klopt iets niet",
     "spanish": "Algo no cuadra",
     "russian": "Что-то не сходится",
@@ -7573,7 +7573,7 @@
   },
   {
     "id": 401,
-    "english": "To be skilled at something****",
+    "english": "To be skilled at something***",
     "dutch": "Ergens goed in zijn",
     "spanish": "Ser hábil en algo",
     "russian": "Уметь что-то делать",
@@ -7591,7 +7591,7 @@
   },
   {
     "id": 402,
-    "english": "To decline a call****",
+    "english": "To decline a call***",
     "dutch": "Een oproep weigeren",
     "spanish": "Rechazar una llamada",
     "russian": "Отклонить звонок",
@@ -7609,7 +7609,7 @@
   },
   {
     "id": 403,
-    "english": "To be satisfied with something****",
+    "english": "To be satisfied with something***",
     "dutch": "Genoegen nemen met iets",
     "spanish": "Conformarse con algo",
     "russian": "Довольствоваться чем-то",
@@ -7627,7 +7627,7 @@
   },
   {
     "id": 404,
-    "english": "To catch up****",
+    "english": "To catch up***",
     "dutch": "Bijpraten",
     "spanish": "Ponerse al día",
     "russian": "Наверстать упущенное",
@@ -7645,7 +7645,7 @@
   },
   {
     "id": 405,
-    "english": "To prove something****",
+    "english": "To prove something***",
     "dutch": "Iets bewijzen",
     "spanish": "Probar algo",
     "russian": "Доказать что-то",
@@ -7663,7 +7663,7 @@
   },
   {
     "id": 406,
-    "english": "To stand up for oneself****",
+    "english": "To stand up for oneself***",
     "dutch": "Opkomen voor zichzelf",
     "spanish": "Defenderse a sí mismo",
     "russian": "Постоять за себя",
@@ -7681,7 +7681,7 @@
   },
   {
     "id": 407,
-    "english": "To beat****",
+    "english": "To beat***",
     "dutch": "Verslaan",
     "spanish": "Vencer",
     "russian": "Победить",
@@ -7699,7 +7699,7 @@
   },
   {
     "id": 408,
-    "english": "To shade a drawing****",
+    "english": "To shade a drawing***",
     "dutch": "Schaduw toevoegen aan een tekening",
     "spanish": "Añadir sombra a un dibujo",
     "russian": "Нарисовать свето-тень в рисунке",
@@ -7717,7 +7717,7 @@
   },
   {
     "id": 409,
-    "english": "Negotiations****",
+    "english": "Negotiations***",
     "dutch": "Onderhandelingen",
     "spanish": "Negociaciones",
     "russian": "Переговоры",
@@ -7735,7 +7735,7 @@
   },
   {
     "id": 410,
-    "english": "To be uncoinscious****",
+    "english": "To be uncoinscious***",
     "dutch": "Bewusteloos zijn",
     "spanish": "Estar inconsciente",
     "russian": "Быть без сознания",
@@ -7753,7 +7753,7 @@
   },
   {
     "id": 411,
-    "english": "To refuse something****",
+    "english": "To refuse something***",
     "dutch": "Iets weigeren",
     "spanish": "Rechazar algo",
     "russian": "Отказаться от чего-то",
@@ -7764,6 +7764,42 @@
     },
       "tags": ["discussion", "opinion", "willingness"],
       "otherKeyWords": ["to decline", "to reject", "to turn down"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+   {
+    "id": 412,
+    "english": "He was avoidend****",
+    "dutch": "Hij was ontwijkend",
+    "spanish": "Él estaba evasivo",
+    "russian": "Он был уклончивым",
+    "alternatives": {
+        "dutch": ["Hij was vaag"],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["willingness", "discussion", "opinion"],
+      "otherKeyWords": ["He was evasive", "He was dodging the question", "He was vague"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+   {
+    "id": 413,
+    "english": "We should just take a chance****",
+    "dutch": "We moeten het er maar op wagen",
+    "spanish": "Deberíamos arriesgarnos",
+    "russian": "Нам стоит рискнуть",
+    "alternatives": {
+        "dutch": ["We moeten het gewoon proberen"],
+        "spanish": ["Deberíamos intentarlo", "Deberíamos arriesgarnos un poco"],
+        "russian": ["Надо просто попробовать"]
+    },
+      "tags": ["willingness", "optimism", "productivity"],
+      "otherKeyWords": ["to take a risk", "to take a chance", "to try"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
