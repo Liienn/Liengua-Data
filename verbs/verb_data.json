@@ -1,0 +1,86 @@
+[
+    {
+    "id": 1,
+    "infinitive": "to answer",
+    "dutch": {
+    "infinitive": "antwoorden",	
+        "conjugations": {
+            "present": [
+                {"pronoun": "ik", "form": "antwoord"},
+                {"pronoun": "jij/u", "form": "antwoordt"},
+                {"pronoun": "hij/zij/het", "form": "antwoordt"},
+                {"pronoun": "wij/jullie/zij", "form": "antwoorden"}
+            ],
+            "past": [
+                {"pronoun": "ik", "form": "antwoordde"},
+                {"pronoun": "jij/u", "form": "antwoordde"},
+                {"pronoun": "hij/zij/het", "form": "antwoordde"},
+                {"pronoun": "wij/jullie/zij", "form": "antwoordden"}
+            ],
+            "participle": "geantwoord"
+        },
+        "examples": [
+            {"sentence": "Ik antwoord op de vraag.", "translation": "I answer the question."},
+            {"sentence": "Zij antwoordt altijd eerlijk.", "translation": "She always answers honestly."},
+            {"sentence": "Hij heeft geantwoord op de e-mail.", "translation": "He has answered the email."}
+        ]
+    },
+    "russian": {
+        "imperfective": {
+            "infinitive": "отвечать",
+            "conjugations": {
+                "present": [
+                    {"pronoun": "я", "form": "отвечаю"},
+                    {"pronoun": "ты", "form": "отвечаешь"},
+                    {"pronoun": "он/она/оно", "form": "отвечает"},
+                    {"pronoun": "мы/вы/они", "form": "отвечаем"}
+                ],
+                "past": [
+                    {"pronoun": "он", "form": "ответил"},
+                    {"pronoun": "она", "form": "ответила"},
+                    {"pronoun": "оно", "form": "ответило"},
+                    {"pronoun": "мы/вы/они", "form": "ответили"}
+                ],
+                "future": [
+                    {"pronoun": "я", "form": "буду отвечать"},
+                    {"pronoun": "ты", "form": "будешь отвечать"},
+                    {"pronoun": "он/она/оно", "form": "будет отвечать"},
+                    {"pronoun": "мы/вы/они", "form": "будем отвечать"}
+                ]
+                
+            },
+            "examples": [
+                {"sentence": "Они не отвечают на сообщения.", "translation": "They don’t respond to messages."},
+                {"sentence": "Она отвечала на письма весь вечер.", "translation": "She was answering letters all evening."},
+                {"sentence": "Когда мы были в школе, мы всегда отвечали честно.", "translation": "When we were in school, we always answered honestly."},
+                {"sentence": "Я буду отвечать на все вопросы.", "translation": "I will be answering all the questions."}
+            ]
+        },
+        "perfective": {
+            "infinitive": "ответить",
+            "conjugations": {
+                "past": [
+                    {"pronoun": "он", "form": "ответил"},
+                    {"pronoun": "она", "form": "ответила"},
+                    {"pronoun": "оно", "form": "ответило"},
+                    {"pronoun": "мы/вы/они", "form": "ответили"}
+                ],
+                "future": [
+                    {"pronoun": "я", "form": "отвечу"},
+                    {"pronoun": "ты", "form": "ответишь"},
+                    {"pronoun": "он/она/оно", "form": "ответит"},
+                    {"pronoun": "мы", "form": "ответим"},
+                    {"pronoun": "вы", "form": "ответите"},
+                    {"pronoun": "они", "form": "ответят"}
+                ] 
+            },
+            "examples": [
+                {"sentence": "Она уже ответила.", "translation": "She has already answered."},
+                {"sentence": "Они не ответили на моё письмо.", "translation": "They didn’t answer my letter."},
+                {"sentence": "Я отвечу позже.", "translation": "I will answer later."},
+                {"sentence": "Он ответит на все вопросы к концу дня.", "translation": "He will answer all the questions by the end of the day."}
+            ]
+        }
+    }
+}
+]

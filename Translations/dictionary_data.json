@@ -7742,7 +7742,7 @@
     "alternatives": {
         "dutch": ["Buiten Westen zijn"],
         "spanish": ["Perder el conocimiento"],
-        "russian": ["Потерять сознание", "Быть в обмороке"]
+        "russian": ["Потерять сознание", "Упасть в обморок", "Поболтать", "Обменяться новостями"]
     },
       "tags": ["health"],
       "otherKeyWords": [],
@@ -7800,6 +7800,114 @@
     },
       "tags": ["willingness", "optimism", "productivity"],
       "otherKeyWords": ["to take a risk", "to take a chance", "to try"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 414,
+    "english": "I got caught in the middle of it****",
+    "dutch": "Ik zat er middenin",
+    "spanish": "Me vi atrapado en medio de eso",
+    "russian": "Я оказался в центре этого",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["expression", "experience"],
+      "otherKeyWords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 415,
+    "english": "My hands are itchy to start****",
+    "dutch": "Mijn handen jeuken",
+    "spanish": "Mis manos están ansiosas por empezar",
+    "russian": "Мои руки чешутся начать",
+    "alternatives": {
+        "dutch": ["Mijn handen kriebelen om te beginnen"],
+        "spanish": ["Mis manos están deseando empezar"],
+        "russian": ["Мои руки горят желанием начать", "Мне не терпится начать"]
+    },
+      "tags": ["willingness", "excitement", "interest", "idiom"],
+      "otherKeyWords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 416,
+    "english": "Something came to my mind****",
+    "dutch": "Er viel me iets te binnen",
+    "spanish": "Me vino algo a la mente",
+    "russian": "Мне что-то пришло в голову",
+    "alternatives": {
+        "dutch": ["Er schoot me iets te binnen", "Ik herinnerde me iets", "Er viel me iets in"],
+        "spanish": ["Me acordé de algo", "Me vino una idea a la mente"],
+        "russian": ["Мне пришла мысль"]
+    },
+      "tags": ["discussion"],
+      "otherKeyWords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 417,
+    "english": "The pieces fell into place****",
+    "dutch": "De puzzel viel op zijn plaats",
+    "spanish": "Las piezas encajaron",
+    "russian": "Все встало на свои места",
+    "alternatives": {
+        "dutch": ["De puzzelstukjes vielen in elkaar", "Alles viel op zijn plaats"],
+        "spanish": ["Todo encajó", "Todo se aclaró"],
+        "russian": ["Все стало ясно", "Все сошлось воедино"]
+    },
+      "tags": ["idiom", "discussion", "optimism"],
+      "otherKeyWords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 418,
+    "english": "To gather courage****",
+    "dutch": "De moed bijeenrapen",
+    "spanish": "Reunir valor",
+    "russian": "Собрать мужество",
+    "alternatives": {
+        "dutch": ["De moed verzamelen", "De moed bijeenschrapen"],
+        "spanish": ["Hacer acopio de valor"],
+        "russian": ["Собрать дух", "Набраться смелости"]
+    },
+      "tags": ["willingness", "emotion"],
+      "otherKeyWords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 419,
+    "english": "To be in the right place at the right time****",
+    "dutch": "Op het juiste moment op de juiste plaats zijn",
+    "spanish": "Estar en el lugar correcto en el momento adecuado",
+    "russian": "Быть в нужном месте в нужное время",
+    "alternatives": {
+        "dutch": ["Op het goede moment op de goede plek zijn"],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["idiom", "optimism"],
+      "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
