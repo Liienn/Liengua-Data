@@ -7914,6 +7914,78 @@
       "linkedVerbIds": []
   },
   {
+    "id": 420,
+    "english": "To mislead someone****",
+    "dutch": "Iemand voor de gek houden",
+    "spanish": "Engañar a alguien",
+    "russian": "Обвести кого-то вокруг пальца",
+    "alternatives": {
+        "dutch": ["Iemand om de tuin leiden", "Iemand misleiden"],
+        "spanish": ["Dar información falsa a alguien"],
+        "russian": ["Дразнить", "Надеть в дурака", "Запутать кого-то"]
+    },
+      "tags": ["idiom", "discussion", "pessimism"],
+      "otherKeyWords": ["to trick someone", "to deceive", "to fool"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 421,
+    "english": "To hesitate****",
+    "dutch": "Aarzelen",
+    "spanish": "Dudar",
+    "russian": "Колебаться",
+    "alternatives": {
+        "dutch": ["Twijfelen", "Treuzelen"],
+        "spanish": ["Vacilar", "Titubear"],
+        "russian": ["Сомневаться", "Не решаться"]
+    },
+      "tags": ["willingness"],
+      "otherKeyWords": ["to pause", "to delay", "to waver"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 422,
+    "english": "Unharmed****",
+    "dutch": "Ongedeerd",
+    "spanish": "Ileso",
+    "russian": "Не пострадавший",
+    "alternatives": {
+        "dutch": ["Onbeschadigd", "Niet gewond"],
+        "spanish": ["Sin daño", "Sin heridas"],
+        "russian": ["Без повреждений", "Без травм"]
+    },
+      "tags": ["health"],
+      "otherKeyWords": ["uninjured", "safe", "unhurt"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 423,
+    "english": "Food for thought****",
+    "dutch": "Iets om over na te denken",
+    "spanish": "Algo en qué pensar",
+    "russian": "Пища для размышлений",
+    "alternatives": {
+        "dutch": [],
+        "spanish": ["Algo que te hace reflexionar"],
+        "russian": []
+    },
+      "tags": ["opinion", "discussion", "idiom"],
+      "otherKeyWords": ["to ponder", "to reflect", "to consider", "something to think about"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
     "id": 0,
     "english": "- a placeholder -",
     "dutch": "",
