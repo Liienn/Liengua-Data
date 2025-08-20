@@ -7828,11 +7828,11 @@
     "english": "My hands are itchy to start****",
     "dutch": "Mijn handen jeuken",
     "spanish": "Mis manos están ansiosas por empezar",
-    "russian": "Мои руки чешутся начать",
+    "russian": "У меня руки чешутся начать",
     "alternatives": {
         "dutch": ["Mijn handen kriebelen om te beginnen"],
         "spanish": ["Mis manos están deseando empezar"],
-        "russian": ["Мои руки горят желанием начать", "Мне не терпится начать"]
+        "russian": ["Я горю желанием начать", "Мне не терпится начать"]
     },
       "tags": ["willingness", "excitement", "interest", "idiom"],
       "otherKeyWords": [],
@@ -7882,11 +7882,11 @@
     "english": "To gather courage****",
     "dutch": "De moed bijeenrapen",
     "spanish": "Reunir valor",
-    "russian": "Собрать мужество",
+    "russian": "Отважиться",
     "alternatives": {
         "dutch": ["De moed verzamelen", "De moed bijeenschrapen"],
         "spanish": ["Hacer acopio de valor"],
-        "russian": ["Собрать дух", "Набраться смелости"]
+        "russian": ["Набраться смелости"]
     },
       "tags": ["willingness", "emotion"],
       "otherKeyWords": [],
