@@ -5278,7 +5278,7 @@
         "spanish": ["Ensordecedoramente alto"],
         "russian": ["Пронзительно громкий"]
     },
-    "tags": [],
+    "tags": ["anger", "fear"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5314,7 +5314,7 @@
         "spanish": ["Me preocupa las repercusiones"],
         "russian": []
     },
-    "tags": [],
+    "tags": ["uncertainty", "fear", "willingness"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5332,7 +5332,7 @@
         "spanish": ["Me preocupa la naturaleza"],
         "russian": ["Я забочусь о природе"]
     },
-    "tags": [],
+    "tags": ["nature", "opinion"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5350,7 +5350,7 @@
         "spanish": ["Apuntes"],
         "russian": ["Записки"]
     },
-    "tags": [],
+    "tags": ["leisure", "learning"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5368,7 +5368,7 @@
         "spanish": ["Nos relevamos"],
         "russian": ["Мы чередуемся"]
     },
-    "tags": [],
+    "tags": ["people", "action", "willingness"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5386,7 +5386,7 @@
         "spanish": ["Está por estos lares"],
         "russian": ["Это где-то поблизости"]
     },
-    "tags": [],
+    "tags": ["location", "uncertainty"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5404,7 +5404,7 @@
         "spanish": [],
         "russian": ["С первого взгляда"]
     },
-    "tags": [],
+    "tags": ["expression"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5422,7 +5422,7 @@
         "spanish": ["Todavía hace mucho calor"],
         "russian": ["Всё ещё достаточно тепло", "Всё ещё довольно тепло"]
     },
-    "tags": [],
+    "tags": ["weather"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5440,7 +5440,7 @@
         "spanish": ["No progreso"],
         "russian": ["Я не делаю никаких успехов", "Я не двигаюсь с мёртвой точки"]
     },
-    "tags": [],
+    "tags": ["productivity", "pessimism", "frustration"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5458,7 +5458,7 @@
         "spanish": ["No me lo estoy inventando"],
         "russian": ["Я не выдумываю"]
     },
-    "tags": [],
+    "tags": ["discussion", "conflict"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5476,7 +5476,7 @@
         "spanish": [],
         "russian": ["Я спокойно к этому отношусь", "Я не делаю из этого проблемы"]
     },
-    "tags": [],
+    "tags": ["conflict", "indifference"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5494,7 +5494,7 @@
         "spanish": ["Desvarío"],
         "russian": ["Плод воображения"]
     },
-    "tags": [],
+    "tags": ["learning"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5512,7 +5512,7 @@
         "spanish": ["Cambiar a otra cosa"],
         "russian": []
     },
-    "tags": [],
+    "tags": ["action"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5530,7 +5530,7 @@
         "spanish": ["Estoy haciendo todo lo que puedo"],
         "russian": ["Я делаю всё, что в моих силах"]
     },
-    "tags": [],
+    "tags": ["willingness", "personality", "learning"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5548,7 +5548,7 @@
         "spanish": ["No sé cómo seguir"],
         "russian": ["Я не знаю, как поступить"]
     },
-    "tags": [],
+    "tags": ["uncertainty", "fear", "willingness"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5566,7 +5566,7 @@
         "spanish": ["Sobreactuación"],
         "russian": ["Перебор", "Преувеличивание"]
     },
-    "tags": [],
+    "tags": ["personality", "conflict"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5584,7 +5584,7 @@
         "spanish": [],
         "russian": []
     },
-    "tags": [],
+    "tags": ["uncertainty", "opinion"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5602,7 +5602,7 @@
         "spanish": [],
         "russian": []
     },
-    "tags": [],
+    "tags": ["opinion", "people", "willingness"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5620,7 +5620,7 @@
         "spanish": ["Hacer comprender"],
         "russian": ["Донести до кого-то"]
     },
-    "tags": [],
+    "tags": ["discussion", "advice", "skill"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5638,7 +5638,7 @@
         "spanish": ["Mucho para querer"],
         "russian": ["Хорошего человека должно быть много"]
     },
-    "tags": [],
+    "tags": ["affection", "optimism"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5656,7 +5656,7 @@
         "spanish": ["Se sintió un poco extraño"],
         "russian": ["Он чувствовал себя не в своей тарелке"]
     },
-    "tags": [],
+    "tags": ["health", "uncertainty", "fear"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5674,7 +5674,7 @@
         "spanish": [],
         "russian": ["Он чувствовал что за ним наблюдают"]
     },
-    "tags": [],
+    "tags": ["fear"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5692,7 +5692,7 @@
       "spanish": ["Casi nunca ocurre", "Normalmente no pasa"],
       "russian": ["Чаще всего это не случается", "Как правило, этого не происходит"]
     },
-    "tags": [],
+    "tags": ["certainty", "frequency"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5710,7 +5710,7 @@
         "spanish": ["Te encargo esta tarea", "Te confío esta responsabilidad"],
         "russian": ["Я поручаю тебе эту задачу", "Я полагаюсь на тебя в этом деле"]
     },
-    "tags": [],
+    "tags": ["people", "work"],
     "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5728,7 +5728,7 @@
         "spanish": ["Dar un bostezo"],
         "russian": ["Зевнуть"]
     },
-      "tags": [],
+      "tags": ["tiredness"],
       "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5746,7 +5746,7 @@
         "spanish": ["Extraer algo", "Sacar"],
         "russian": ["Вытащить что-то", "Извлечь что-то"]
     },
-      "tags": [],
+      "tags": ["verbs", "action"],
       "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5764,7 +5764,7 @@
       "spanish": ["Así son las cosas"],
       "russian": ["Так оно и есть"]
     },
-      "tags": [],
+      "tags": ["idiom", "agreement", "indifference"],
       "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5782,7 +5782,7 @@
         "spanish": ["Respecto a lo otro", "Sobre lo otro"],
         "russian": ["Относительно другого", "По поводу другого"]
     },
-      "tags": [],
+      "tags": ["discussion"],
       "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5800,7 +5800,7 @@
         "spanish": ["¡Continúa así!", "¡No pares!"],
         "russian": ["Так держать!", "Продолжай в том же духе!", "Не останавливайся!"]
     },
-      "tags": [],
+      "tags": ["willingness", "affection"],
       "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
@@ -5818,7 +5818,7 @@
         "spanish": ["Recordar", "Mantener en mente"],
         "russian": ["Помнить", "Иметь в виду"]
     },
-      "tags": [],
+      "tags": ["advice", "skill"],
       "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
