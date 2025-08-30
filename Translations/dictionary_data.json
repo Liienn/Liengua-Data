@@ -7994,7 +7994,7 @@
     "alternatives": {
         "dutch": ["Ik neem aan van wel", "Ik denk van wel"],
         "spanish": ["Creo que sí", "Me imagino que sí"],
-        "russian": ["Думаю, что да", "Наверное, да"]
+        "russian": ["Пожалуй, да","Думаю, что да", "Наверное, да"]
     },
       "tags": ["agreement", "willingness", "uncertainty"],
       "otherKeyWords": ["I assume so", "I guess so", "I think so"],
@@ -8012,7 +8012,7 @@
     "alternatives": {
         "dutch": ["De dag daarvoor", "De vorige dag"],
         "spanish": ["El día previo"],
-        "russian": ["День перед этим"]
+        "russian": ["За день до этого","День перед этим"]
     },
       "tags": ["time"],
       "otherKeyWords": ["the previous day", "the day prior", "a day earlier"],
