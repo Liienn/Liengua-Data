@@ -8048,7 +8048,7 @@
     "alternatives": {
         "dutch": ["Op basis van"],
         "spanish": ["De acuerdo con"],
-        "russian": ["В соответствии с"]
+        "russian": ["В соответствии с", "По словам"]
     },
       "tags": ["discussion", "opinion"],
       "otherKeyWords": ["as stated by", "as reported by", "based on"],
@@ -8077,7 +8077,7 @@
   },
   {
     "id": 429,
-    "english": "To overdo****",
+    "english": "To exaggerate****",
     "dutch": "Overdrijven",
     "spanish": "Exagerar",
     "russian": "Преувеличивать",
@@ -8087,7 +8087,7 @@
         "russian": ["Говорить с преувеличением"]
     },
       "tags": ["discussion", "opinion", "personality", "willingness"],
-      "otherKeyWords": ["to exaggerate", "to overstate", "to amplify"],
+      "otherKeyWords": ["to overdo", "to overstate", "to amplify"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -8105,6 +8105,60 @@
         "russian": []
     },
       "tags": ["appearance", "body"],
+      "otherKeyWords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+   {
+    "id": 431,
+    "english": "I got distracted****",
+    "dutch": "Ik was afgeleid",
+    "spanish": "Me distraje",
+    "russian": "Меня отвлекли",
+    "alternatives": {
+        "dutch": ["Ik raakte afgeleid"],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["productivity", "willingness"],
+      "otherKeyWords": ["to lose focus", "to be sidetracked", "to be diverted"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+   {
+    "id": 432,
+    "english": "Week days****",
+    "dutch": "Weekdagen",
+    "spanish": "Días laborables",
+    "russian": "Будние дни",
+    "alternatives": {
+        "dutch": ["Werkdagen"],
+        "spanish": ["Días de semana"],
+        "russian": ["Рабочие дни"]
+    },
+      "tags": ["time", "work"],
+      "otherKeyWords": ["working days", "business days"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+   {
+    "id": 433,
+    "english": "Balled up fist****",
+    "dutch": "Gebalde vuist",
+    "spanish": "Puño cerrado",
+    "russian": "Сжатый кулак",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["body", "frustration", "anger", "conflict"],
       "otherKeyWords": [],
       "synonymIds": [],
       "linkedIds": [],
