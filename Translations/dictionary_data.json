@@ -2972,7 +2972,7 @@
     "alternatives": {
       "dutch": ["Er is geen haast", "Rustig aan, alles op zijn tijd"],
       "spanish": ["Cada cosa a su tiempo", "Todo llegará a su debido tiempo"],
-      "russian": ["Всему свое время", "Всему своё время придёт"]
+      "russian": ["Всему своё время придёт"]
     },
     "tags": ["idiom", "time", "optimism"],
     "otherKeyWords": [],
@@ -7303,7 +7303,7 @@
   },
   {
     "id": 386,
-    "english": "To beat someome up",
+    "english": "To beat someone up",
     "dutch": "Iemand te grazen nemen",
     "spanish": "Golpear a alguien",
     "russian": "Избить кого-то",
@@ -8160,6 +8160,96 @@
     },
       "tags": ["body", "frustration", "anger", "conflict"],
       "otherKeyWords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 434,
+    "english": "She felt that something was off****",
+    "dutch": "Ze voelde dat er iets scheelde",
+    "spanish": "Ella sentía que algo andaba mal",
+    "russian": "Она чувствовала, что что-то не так",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["discussion", "uncertainty", "pessimism"],
+      "otherKeyWords": ["something is wrong"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 435,
+    "english": "Tree bark****",
+    "dutch": "Boomschors",
+    "spanish": "Corteza de árbol",
+    "russian": "Кора дерева",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["nature"],
+      "otherKeyWords": [],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 436,
+    "english": "To seclude oneself****",
+    "dutch": "Zich afzonderen",
+    "spanish": "Aislarse",
+    "russian": "Уединяться",
+    "alternatives": {
+        "dutch": ["Zich terugtrekken"],
+        "spanish": ["Retirarse"],
+        "russian": ["Уходить в себя"]
+    },
+      "tags": ["self-care", "emotion", "personality"],
+      "otherKeyWords": ["to isolate oneself", "to withdraw", "to be solitary"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 437,
+    "english": "To use common sense****",
+    "dutch": "Gezond verstand gebruiken",
+    "spanish": "Usar el sentido común",
+    "russian": "Полагаться на здравый смысл",
+    "alternatives": {
+        "dutch": ["Je verstand gebruiken", "Logisch nadenken"],
+        "spanish": ["Usar la lógica"],
+        "russian": ["Руководствоваться здравым смыслом", "Делать что подсказывает здравый смысл"]
+    },
+      "tags": ["idiom", "productivity", "discussion"],
+      "otherKeyWords": ["to be practical", "to be logical", "to think clearly"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+   {
+    "id": 438,
+    "english": "This is definitely the case****",
+    "dutch": "Dit is zeker het geval",
+    "spanish": "Esto es definitivamente el caso",
+    "russian": "Это определенно так",
+    "alternatives": {
+        "dutch": ["Dit is absoluut het geval", "Dit is ongetwijfeld het geval"],
+        "spanish": ["Esto es sin duda el caso"],
+        "russian": ["Это несомненно так", "Наверника это так"]
+    },
+      "tags": ["certainty", "discussion"],
+      "otherKeyWords": ["this is for sure", "this is undoubtedly the case", "this is certainly true"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
