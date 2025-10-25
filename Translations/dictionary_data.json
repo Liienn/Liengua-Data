@@ -8299,7 +8299,7 @@
     "alternatives": {
         "dutch": ["Ze meden de plek", "Ze ontweken de plek", "Ze bleven uit de buurt van de plek", "Ze bleven weg van de plek"],
         "spanish": ["Ellos eludieron el lugar", "Ellos sortearon el lugar"],
-        "russian": ["Они сторонятся это место", "Они обходили это место"]
+        "russian": ["Они сторонятся это место", "Они обходят это место стороной"]
     },
       "tags": ["action", "movement"],
       "otherKeyWords": ["to stay away from", "to shun", "to dodge"],
@@ -8371,10 +8371,10 @@
     "alternatives": {
         "dutch": [],
         "spanish": [],
-        "russian": []
+        "russian": ["Я всегда мёрзну"]
     },
       "tags": ["health", "body"],
-      "otherKeyWords": ["to feel cold", "to be chilly"],
+      "otherKeyWords": ["to feel cold", "to be chilly", "I'm always freezing"],
       "synonymIds": [],
       "linkedIds": [],
       "collections": [],
@@ -8389,7 +8389,7 @@
     "alternatives": {
         "dutch": ["Ontdekken", "Uitvinden"],
         "spanish": ["Averiguar"],
-        "russian": ["Найти"]
+        "russian": ["Найти", "Открыть для себя"]
     },
       "tags": ["action", "experience"],
       "otherKeyWords": ["to find out", "to learn about", "to explore"],
