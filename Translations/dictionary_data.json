@@ -7764,7 +7764,7 @@
     },
       "tags": ["discussion", "opinion", "willingness"],
       "otherKeyWords": ["to decline", "to reject", "to turn down"],
-      "synonymIds": [],
+      "synonymIds": [454],
       "linkedIds": [],
       "collections": [],
       "linkedVerbIds": []
@@ -7987,7 +7987,7 @@
   },
   {
     "id": 424,
-    "english": "I suppose so*",
+    "english": "I suppose so",
     "dutch": "Ik veronderstel van wel",
     "spanish": "Supongo que sí",
     "russian": "Полагаю, что да",
@@ -8005,7 +8005,7 @@
   },
   {
     "id": 425,
-    "english": "The day before that*",
+    "english": "The day before that",
     "dutch": "De dag ervoor",
     "spanish": "El día antes de eso",
     "russian": "Днём раньше",
@@ -8023,7 +8023,7 @@
   },
   {
     "id": 426,
-    "english": "I didn't expect this*",
+    "english": "I didn't expect this",
     "dutch": "Ik had dit niet verwacht",
     "spanish": "No esperaba esto",
     "russian": "Я этого не ожидал",
@@ -8041,7 +8041,7 @@
   },
   {
     "id": 427,
-    "english": "According to**",
+    "english": "According to*",
     "dutch": "Volgens",
     "spanish": "Según",
     "russian": "Согласно",
@@ -8059,7 +8059,7 @@
   },
   {
     "id": 428,
-    "english": "To take it easy**",
+    "english": "To take it easy*",
     "dutch": "Het rustig aan doen",
     "spanish": "Tomárselo con calma",
     "russian": "Не принимать близко к сердцу",
@@ -8077,7 +8077,7 @@
   },
   {
     "id": 429,
-    "english": "To exaggerate**",
+    "english": "To exaggerate*",
     "dutch": "Overdrijven",
     "spanish": "Exagerar",
     "russian": "Преувеличивать",
@@ -8095,7 +8095,7 @@
   },
   {
     "id": 430,
-    "english": "I have stubbles**",
+    "english": "I have stubbles*",
     "dutch": "Ik heb stoppels",
     "spanish": "",
     "russian": "У меня щетина",
@@ -8113,7 +8113,7 @@
   },
    {
     "id": 431,
-    "english": "I got distracted**",
+    "english": "I got distracted*",
     "dutch": "Ik was afgeleid",
     "spanish": "Me distraje",
     "russian": "Меня отвлекли",
@@ -8131,7 +8131,7 @@
   },
    {
     "id": 432,
-    "english": "Week days**",
+    "english": "Week days*",
     "dutch": "Weekdagen",
     "spanish": "Días laborables",
     "russian": "Будние дни",
@@ -8149,7 +8149,7 @@
   },
    {
     "id": 433,
-    "english": "Balled up fist**",
+    "english": "Balled up fist*",
     "dutch": "Gebalde vuist",
     "spanish": "Puño cerrado",
     "russian": "Сжатый кулак",
@@ -8167,7 +8167,7 @@
   },
   {
     "id": 434,
-    "english": "She felt that something was off***",
+    "english": "She felt that something was off**",
     "dutch": "Ze voelde dat er iets scheelde",
     "spanish": "Ella sentía que algo andaba mal",
     "russian": "Она чувствовала, что что-то не так",
@@ -8185,7 +8185,7 @@
   },
   {
     "id": 435,
-    "english": "Tree bark***",
+    "english": "Tree bark**",
     "dutch": "Boomschors",
     "spanish": "Corteza de árbol",
     "russian": "Кора дерева",
@@ -8203,7 +8203,7 @@
   },
   {
     "id": 436,
-    "english": "To seclude oneself***",
+    "english": "To seclude oneself**",
     "dutch": "Zich afzonderen",
     "spanish": "Aislarse",
     "russian": "Уединяться",
@@ -8221,7 +8221,7 @@
   },
   {
     "id": 437,
-    "english": "To use common sense***",
+    "english": "To use common sense**",
     "dutch": "Gezond verstand gebruiken",
     "spanish": "Usar el sentido común",
     "russian": "Полагаться на здравый смысл",
@@ -8239,7 +8239,7 @@
   },
    {
     "id": 438,
-    "english": "This is definitely the case***",
+    "english": "This is definitely the case**",
     "dutch": "Dit is zeker het geval",
     "spanish": "Esto es definitivamente el caso",
     "russian": "Это определенно так",
@@ -8256,7 +8256,7 @@
       "linkedVerbIds": []
   },{
     "id": 439,
-    "english": "I passed him****",
+    "english": "I passed him***",
     "dutch": "Ik stak hem voorbij",
     "spanish": "Lo adelanté",
     "russian": "Я его обогнал",
@@ -8274,7 +8274,7 @@
   },
   {
     "id": 440,
-    "english": "To roam****",
+    "english": "To roam***",
     "dutch": "Rondzwerven",
     "spanish": "Vagar",
     "russian": "Бродить",
@@ -8292,7 +8292,7 @@
   },
   {
     "id": 441,
-    "english": "They avoided the place****",
+    "english": "They avoided the place***",
     "dutch": "Ze vermeden de plek",
     "spanish": "Ellos evitaron el lugar",
     "russian": "Они избегали это место",
@@ -8310,7 +8310,7 @@
   },
   {
     "id": 442,
-    "english": "To mimic****",
+    "english": "To mimic***",
     "dutch": "Nabootsen",
     "spanish": "Imitar",
     "russian": "Подражать",
@@ -8328,7 +8328,7 @@
   },
   {
     "id": 443,
-    "english": "To pretend****",
+    "english": "To pretend***",
     "dutch": "Doen alsof",
     "spanish": "Fingir",
     "russian": "Притворяться",
@@ -8346,7 +8346,7 @@
   },
   {
     "id": 444,
-    "english": "The meeting went overtime****",
+    "english": "The meeting went overtime***",
     "dutch": "De meeting was uitgelopen",
     "spanish": "La reunión se alargó",
     "russian": "Встреча затянулась",
@@ -8364,7 +8364,7 @@
   },
   {
     "id": 445,
-    "english": "I am always cold****",
+    "english": "I am always cold***",
     "dutch": "Ik heb het altijd koud",
     "spanish": "Siempre tengo frío",
     "russian": "Мне всегда холодно",
@@ -8382,7 +8382,7 @@
   },
   {
     "id": 446,
-    "english": "To discover****",
+    "english": "To discover***",
     "dutch": "Verkennen",
     "spanish": "Descubrir",
     "russian": "Обнаруживать",
@@ -8400,7 +8400,7 @@
   },
   {
     "id": 447,
-    "english": "I don't look forward to it****",
+    "english": "I don't look forward to it***",
     "dutch": "Ik zie ertegenop",
     "spanish": "No lo espero con ilusión",
     "russian": "Я не с нетерпением этого жду",
@@ -8418,7 +8418,7 @@
   },
   {
     "id": 448,
-    "english": "To mention****",
+    "english": "To mention***",
     "dutch": "Vermelden",
     "spanish": "Mencionar",
     "russian": "Упоминать",
@@ -8430,6 +8430,186 @@
       "tags": ["communication", "discussion"],
       "otherKeyWords": ["to bring up", "to refer to", "to point out"],
       "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 449,
+    "english": "He called him out on lying****",
+    "dutch": "Hij confronteerde hem zijn leugen",
+    "spanish": "Él lo confrontó por mentir",
+    "russian": "Он уличил его во лжи",
+    "alternatives": {
+        "dutch": ["Hij sprak hem aan op liegen", "Hij wees hem op zijn leugen"],
+        "spanish": ["Él lo acusó de mentir", "Él lo enfrentó por su mentira"],
+        "russian": ["Он обвинил его во лжи", "Он поймал его на вранье"]
+    },
+      "tags": ["discussion", "communication"],
+      "otherKeyWords": ["to confront", "to challenge", "to accuse"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 450,
+    "english": "As if nothing happened****",
+    "dutch": "Alsof er niets gebeurd is",
+    "spanish": "Como si nada hubiera pasado",
+    "russian": "Как будто ничего не произошло",
+    "alternatives": {
+        "dutch": ["Alsof er niets aan de hand is"],
+        "spanish": ["Como si nada ocurriera"],
+        "russian": ["Как будто ничего не случилось", "Как на чём не бывало"]
+    },
+      "tags": ["idiom", "communication", "action"],
+      "otherKeyWords": ["to ignore", "to overlook", "to disregard"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 451,
+    "english": "It sounds familiar****",
+    "dutch": "Het klinkt bekend",
+    "spanish": "Suena familiar",
+    "russian": "Звучит знакомо",
+    "alternatives": {
+        "dutch": ["Het komt me bekend voor"],
+        "spanish": ["Me suena"],
+        "russian": ["Это мне знакомо"]
+    },
+      "tags": ["discussion", "communication", "comparison"],
+      "otherKeyWords": ["to ring a bell", "to seem familiar", "to jog one's memory"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 452,
+    "english": "I have no regrets****",
+    "dutch": "Ik heb geen spijt",
+    "spanish": "No tengo arrepentimientos",
+    "russian": "У меня нет сожалений",
+    "alternatives": {
+        "dutch": ["Ik heb er geen spijt van"],
+        "spanish": ["No me arrepiento de nada"],
+        "russian": ["Я ни о чём не жалею"]
+    },
+      "tags": ["emotion", "personality"],
+      "otherKeyWords": ["to feel content", "to be satisfied", "to have no remorse"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 453,
+    "english": "It was too tempting****",
+    "dutch": "Het was te verleidelijk",
+    "spanish": "Era demasiado tentador",
+    "russian": "Это было слишком заманчиво",
+    "alternatives": {
+        "dutch": ["Ik kon het niet laten", "Ik kon het niet weerstaan"],
+        "spanish": ["No pude resistirme"],
+        "russian": ["Я не смог устоять"]
+    },
+      "tags": ["willingness", "emotion"],
+      "otherKeyWords": ["to be irresistible", "to be alluring", "to be hard to resist"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 454,
+    "english": "It suddenly stopped****",
+    "dutch": "Het stopte plotseling",
+    "spanish": "De repente se detuvo",
+    "russian": "Внезапно это остановилось",
+    "alternatives": {
+        "dutch": ["Het hield opeens op"],
+        "spanish": ["Dejó de repente"],
+        "russian": ["Вдруг это прекратилось", "Обрибается внезапно"]
+    },
+      "tags": ["action", "time"],
+      "otherKeyWords": ["to come to a halt", "to cease suddenly", "to end abruptly"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 455,
+    "english": "To lure into a trap****",
+    "dutch": "In de val lokken",
+    "spanish": "Atraer a una trampa",
+    "russian": "Завлечь в ловушку",
+    "alternatives": {
+        "dutch": ["In de val laten lopen"],
+        "spanish": ["Engañar para que caiga en una trampa"],
+        "russian": ["Заманить в ловушку"]
+    },
+      "tags": ["idiom", "action", "conflict"],
+      "otherKeyWords": ["to entice into a trap", "to bait into a trap", "to trick into a trap"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 456,
+    "english": "Able to do something at will****",
+    "dutch": "In staat zijn iets naar wens te doen",
+    "spanish": "Capaz de hacer algo a voluntad",
+    "russian": "Способный делать что-то по желанию",
+    "alternatives": {
+        "dutch": ["Iets naar believen kunnen doen"],
+        "spanish": ["Poder hacer algo cuando se quiera"],
+        "russian": ["Мочь делать что-то когда захочется"]
+    },
+      "tags": ["willingness", "productivity"],
+      "otherKeyWords": ["to be free to do something", "to have the ability to do something", "to be capable of doing something"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 457,
+    "english": "To cope with something****",
+    "dutch": "Omgaan met iets",
+    "spanish": "Hacer frente a algo",
+    "russian": "Справляться с чем-то",
+    "alternatives": {
+        "dutch": ["Iets aankunnen"],
+        "spanish": ["Enfrentarse a algo"],
+        "russian": ["Бороться с чем-то"]
+    },
+      "tags": ["willingness", "emotion", "personality", "verbs"],
+      "otherKeyWords": ["to manage something", "to deal with something", "to handle something"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 458,
+    "english": "To opt out of something****",
+    "dutch": "Zich afmelden voor iets",
+    "spanish": "Optar por no participar en algo",
+    "russian": "Отказаться от участия в чем-то",
+    "alternatives": {
+        "dutch": ["Zich terugtrekken uit iets"],
+        "spanish": ["Renunciar a algo"],
+        "russian": ["Выйти из чего-то"]
+    },
+      "tags": ["willingness", "personality", "verbs"],
+      "otherKeyWords": ["to withdraw from something", "to decline to participate in something", "to choose not to be involved in something"],
+      "synonymIds": [411],
       "linkedIds": [],
       "collections": [],
       "linkedVerbIds": []
