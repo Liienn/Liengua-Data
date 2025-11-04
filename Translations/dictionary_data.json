@@ -8615,6 +8615,42 @@
       "linkedVerbIds": []
   },
   {
+    "id": 459,
+    "english": "They played the video backwards****",
+    "dutch": "Ze speelden de video achterstevoren af",
+    "spanish": "Reprodujeron el video al revés",
+    "russian": "Они воспроизвели видео в обратном порядке",
+    "alternatives": {
+        "dutch": [],
+        "spanish": ["Reprodujeron el video en reversa"],
+        "russian": ["Они включили видео задом наперёд"]
+    },
+      "tags": ["action", "movement"],
+      "otherKeyWords": ["to play in reverse"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 460,
+    "english": "An event****",
+    "dutch": "Een event",
+    "spanish": "Un evento",
+    "russian": "Событие",
+    "alternatives": {
+        "dutch": ["Een gebeurtenis", "Een happening"],
+        "spanish": ["Una acontecimiento", "Una ceremonia"],
+        "russian": ["Мероприятие", "Случай"]
+    },
+      "tags": ["experience", "people"],
+      "otherKeyWords": ["an occasion", "an happening"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
     "id": 0,
     "english": "",
     "dutch": "",
