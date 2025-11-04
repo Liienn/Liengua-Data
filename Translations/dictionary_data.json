@@ -8299,7 +8299,7 @@
     "alternatives": {
         "dutch": ["Ze meden de plek", "Ze ontweken de plek", "Ze bleven uit de buurt van de plek", "Ze bleven weg van de plek"],
         "spanish": ["Ellos eludieron el lugar", "Ellos sortearon el lugar"],
-        "russian": ["Они сторонятся это место", "Они обходят это место стороной"]
+        "russian": ["Они сторонятся этого место", "Они обходят это место стороной"]
     },
       "tags": ["action", "movement"],
       "otherKeyWords": ["to stay away from", "to shun", "to dodge"],
