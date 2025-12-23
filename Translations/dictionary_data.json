@@ -8651,6 +8651,42 @@
       "linkedVerbIds": []
   },
   {
+    "id": 461,
+    "english": "He is scatterbrained****",
+    "dutch": "Hij is een warhoofd",
+    "spanish": "Él es despistado",
+    "russian": "Он рассеянный",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["personality", "idiom"],
+      "otherKeyWords": ["absent-minded", "forgetful", "inattentive"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
+    "id": 462,
+    "english": "The rumor got confirmed****",
+    "dutch": "Het gerucht werd bevestigd",
+    "spanish": "El rumor se confirmó",
+    "russian": "Слух подтвердился",
+    "alternatives": {
+        "dutch": [],
+        "spanish": [],
+        "russian": []
+    },
+      "tags": ["discussion", "communication"],
+      "otherKeyWords": ["to be verified", "to be validated", "to be substantiated"],
+      "synonymIds": [],
+      "linkedIds": [],
+      "collections": [],
+      "linkedVerbIds": []
+  },
+  {
     "id": 0,
     "english": "",
     "dutch": "",
